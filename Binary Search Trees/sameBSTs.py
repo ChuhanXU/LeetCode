@@ -1,0 +1,35 @@
+def sameBST(arrayOne,arrayTwo):
+    if len(arrayOne) != len(arrayTwo):
+        return False
+    if len(arrayOne) == 0 and len(arrayTwo) == 0:
+        return True
+    if arrayOne[0] != arrayTwo[0]:
+        return False
+
+    oneLeft = getSmaller(arrayOne)
+    twoLeft = getSmaller(arrayTwo)
+    oneRight = getBiggerOrEqual(arrayOne)
+    twoRight = getBiggerOrEqual(arrayTwo)
+    return sameBST(oneLeft,twoLeft) and sameBST(oneRight,twoRight)
+# getSmaller是为了得到数组中所有比第一个元素小的值
+def getSmaller(array):
+    smaller = []
+    for i in range(1,len(array)):
+        if array[i]<array[0]:
+            smaller.append(array[i])
+    return smaller
+#getBigger是为了得到数组中所有比第一个元素大的值
+def getBiggerOrEqual(array):
+    biggerOrEqual = []
+    for i in range(1,len(array)):
+        if array[i]>=array[0]:
+            biggerOrEqual.append(array[i])
+    return biggerOrEqual
+
+print(sameBST([10, 15, 8, 12, 94, 81, 5, 2, 11],[10, 8, 5, 15, 2, 12, 11, 94, 81]))
+
+
+
+
+
+
