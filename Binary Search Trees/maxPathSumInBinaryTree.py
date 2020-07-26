@@ -52,6 +52,32 @@ def calculateBranchSums(node, runningSum, sums):
     calculateBranchSums(node.right, newRunningSum, sums)
     return sums
 
+def iterativeInOrderTraversal(tree,callback):
+    previousNode = None
+    currentNode = tree
+    while currentNode is not None:
+        if previousNode is None or previousNode == currentNode.parent:
+            if currentNode.left is not None:
+                nextNode = currentNode.left
+            else:
+                callback(currentNode)
+                nextNode = currentNode.right if currentNode.right is not None else currentNode.parent
+        # 从左边上去说明中间结点还没有callback 右结点也没有访问
+        elif previousNode == currentNode.left:
+            callback(currentNode)
+            nextNode = currentNode.right if currentNode.right is not None else currentNode.parent
+        # 从右边上去说明中间结点和右边结点都已经callback，要去当前结点的父结点了
+        else:
+            nextNode = currentNode.parent
+        previousNode = currentNode
+        currentNode = nextNode
+# 求二叉树的最大深度
+def maxDepth(tree):
+    if tree is None:
+        return 0
+    left = maxDepth(tree.left)
+    right = maxDepth(tree.right)
+    return max(right,left)+1
 
 root = BST(10)
 insert(root,5)
@@ -73,7 +99,7 @@ insert(root,16)
 # print(invertBinaryTree(root))
 # print(branchSums(root))
 print(maxPathSum(root))
-
+# print(maxDepth(root))
 
 
 

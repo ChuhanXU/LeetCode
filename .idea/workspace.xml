@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3129e79-4cd3-4ba8-a62c-f8063a1c32c1" name="Default Changelist" comment="" />
+    <list default="true" id="b3129e79-4cd3-4ba8-a62c-f8063a1c32c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/createBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/maxSubsetSumNoAdjacent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goldman OA/maxSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/copyBooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/findMinimumInRotatedSortedTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/woodCut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/threeNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/threeNumberSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search Trees/createTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search Trees/createTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search Trees/maxPathSumInBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search Trees/maxPathSumInBinaryTree.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ex4LB4pKYjHu8bWbZLeJoUKRLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Binary Search Trees" />
   </component>
@@ -34,8 +51,8 @@
       <recent name="C:\Users\xuchu\algorithm\Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.maxPathSumInBinaryTree">
-    <configuration name="branchSums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.maxSubstring">
+    <configuration name="copyBooks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,12 +60,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary Search Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Search Trees/branchSums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/copyBooks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,28 +96,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="longestPeak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/longestPeak.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="maxPathSumInBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sameBSTs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maxSubsetSumNoAdjacent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +126,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary Search Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Search Trees/sameBSTs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/maxSubsetSumNoAdjacent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maxSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Goldman OA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Goldman OA/maxSubstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.maxPathSumInBinaryTree" />
+        <item itemvalue="Python.maxSubstring" />
+        <item itemvalue="Python.maxSubsetSumNoAdjacent" />
         <item itemvalue="Python.createTree" />
-        <item itemvalue="Python.sameBSTs" />
-        <item itemvalue="Python.longestPeak" />
-        <item itemvalue="Python.branchSums" />
+        <item itemvalue="Python.maxPathSumInBinaryTree" />
+        <item itemvalue="Python.copyBooks" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +187,9 @@
       <workItem from="1595335759710" duration="17149000" />
       <workItem from="1595434280524" duration="17209000" />
       <workItem from="1595531859006" duration="11251000" />
-      <workItem from="1595597020569" duration="9236000" />
+      <workItem from="1595597020569" duration="13550000" />
+      <workItem from="1595689470413" duration="21525000" />
+      <workItem from="1595771742093" duration="8623000" />
     </task>
     <servers />
   </component>
@@ -182,46 +201,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595249993200" />
-    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1595605490460">
+    <state width="724" height="211" key="GridCell.Tab.0.bottom" timestamp="1595790925207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1595605490460">
+    <state width="724" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595790925207" />
+    <state width="724" height="211" key="GridCell.Tab.0.center" timestamp="1595790925207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1595605490460">
+    <state width="724" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595790925207" />
+    <state width="724" height="211" key="GridCell.Tab.0.left" timestamp="1595790925207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1595605490460">
+    <state width="724" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595790925207" />
+    <state width="724" height="211" key="GridCell.Tab.0.right" timestamp="1595790925207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1595605490460">
+    <state width="724" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595790925207" />
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom" timestamp="1595787763736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1595605490460">
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595787763736" />
+    <state width="1493" height="255" key="GridCell.Tab.1.center" timestamp="1595787763736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1595605490460">
+    <state width="1493" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595787763736" />
+    <state width="1493" height="255" key="GridCell.Tab.1.left" timestamp="1595787763736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1595605490460">
+    <state width="1493" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595787763736" />
+    <state width="1493" height="255" key="GridCell.Tab.1.right" timestamp="1595787763736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595605490460" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1595597026398">
+    <state width="1493" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595787763736" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1595771753250">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595597026398" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595771753250" />
     <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595252768777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1595252768777" />
+    <state x="474" y="168" width="588" height="488" key="find.popup" timestamp="1595791157134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="168" width="588" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1595791157134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -258,7 +281,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Arrays/threeNumberSum.py</url>
-          <line>19</line>
+          <line>42</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -302,33 +325,58 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/woodCut.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/findMinimumInRotatedSortedTree.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Binary Search Trees/createTree.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Binary Search Trees/maxPathSumInBinaryTree.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="38" />
+          <line>100</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Goldman OA/maxSubstring.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm$smallestDifference.coverage" NAME="smallestDifference Coverage Results" MODIFIED="1595266428404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$findClosestValueinBST.coverage" NAME="findClosestValueinBST Coverage Results" MODIFIED="1595435101674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$minRewards.coverage" NAME="minRewards Coverage Results" MODIFIED="1595363230310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$moveElementToEnd.coverage" NAME="moveElementToEnd Coverage Results" MODIFIED="1595344285453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$orderCheck.coverage" NAME="orderCheck Coverage Results" MODIFIED="1595599129145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
     <SUITE FILE_PATH="coverage/algorithm$longestPeak.coverage" NAME="longestPeak Coverage Results" MODIFIED="1595599220212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/algorithm$monotonicArray.coverage" NAME="monotonicArray Coverage Results" MODIFIED="1595349715304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1595547258091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$woodCut.coverage" NAME="woodCut Coverage Results" MODIFIED="1595704622986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1595338446514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$findMinimumInRotatedSortedTree.coverage" NAME="findMinimumInRotatedSortedTree Coverage Results" MODIFIED="1595705940911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$fourNumberSum.coverage" NAME="fourNumberSum Coverage Results" MODIFIED="1595359026403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$createTree.coverage" NAME="createTree Coverage Results" MODIFIED="1595603419592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$createTree.coverage" NAME="createTree Coverage Results" MODIFIED="1595717802655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
     <SUITE FILE_PATH="coverage/algorithm$minRewards__1_.coverage" NAME="minRewards (1) Coverage Results" MODIFIED="1595469920966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$copyBooks.coverage" NAME="copyBooks Coverage Results" MODIFIED="1595712949837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$zigzagTraverse.coverage" NAME="zigzagTraverse Coverage Results" MODIFIED="1595481559896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$branchSums.coverage" NAME="branchSums Coverage Results" MODIFIED="1595599192491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
     <SUITE FILE_PATH="coverage/algorithm$LargestRange.coverage" NAME="LargestRange Coverage Results" MODIFIED="1595363152359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$spiralTraverse.coverage" NAME="spiralTraverse Coverage Results" MODIFIED="1595275312586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$threeNumberSum.coverage" NAME="threeNumberSum Coverage Results" MODIFIED="1595341364818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$threeNumberSum.coverage" NAME="threeNumberSum Coverage Results" MODIFIED="1595703030040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$sameBSTs.coverage" NAME="sameBSTs Coverage Results" MODIFIED="1595601954369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$maxPathSumInBinaryTree.coverage" NAME="maxPathSumInBinaryTree Coverage Results" MODIFIED="1595605490434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$findClosestValueinBST.coverage" NAME="findClosestValueinBST Coverage Results" MODIFIED="1595435101674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$maxSubstring.coverage" NAME="maxSubstring Coverage Results" MODIFIED="1595790925186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
+    <SUITE FILE_PATH="coverage/algorithm$minRewards.coverage" NAME="minRewards Coverage Results" MODIFIED="1595363230310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$maxSubsetSumNoAdjacent.coverage" NAME="maxSubsetSumNoAdjacent Coverage Results" MODIFIED="1595719327088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/algorithm$orderCheck.coverage" NAME="orderCheck Coverage Results" MODIFIED="1595599129145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
+    <SUITE FILE_PATH="coverage/algorithm$monotonicArray.coverage" NAME="monotonicArray Coverage Results" MODIFIED="1595349715304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1595547258091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$maxPathSumInBinaryTree.coverage" NAME="maxPathSumInBinaryTree Coverage Results" MODIFIED="1595717773561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
   </component>
 </project>

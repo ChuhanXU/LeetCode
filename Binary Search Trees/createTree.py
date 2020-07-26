@@ -55,6 +55,7 @@ def inOrderTraverses(tree,array):
 
 def remove(tree, value, parentNode=None):
     currentNode = tree
+    # 前面的if 和 elif都是在找值 currentNode为我们要删除的结点
     while currentNode is not None:
         if value > currentNode.value:
             parentNode = currentNode
@@ -63,10 +64,11 @@ def remove(tree, value, parentNode=None):
             parentNode = currentNode
             currentNode = currentNode.left
         else:
-
+            # 第一个if如果要删除的结点是有两个子节点的结点
             if currentNode.left is not None and currentNode.right is not None:
                 currentNode.value = currentNode.right.getMin()
                 currentNode.right.remove(currentNode.value, parentNode)
+            # 如果要删除的结点没有父结点
             elif parentNode is None:
                 if currentNode.left is not None:
                     currentNode.value = currentNode.left.value
@@ -79,6 +81,7 @@ def remove(tree, value, parentNode=None):
                 else:
             # there is only one node and it is root node
                     currentNode = None
+            # 要删除的结点有父结点
             elif parentNode.left == currentNode:
                 parentNode.left = currentNode.left if currentNode.left is not None else currentNode.right
             elif parentNode.right == currentNode:
@@ -89,7 +92,10 @@ def remove(tree, value, parentNode=None):
 def nodeDepthsRecursive(tree,depth=0):
     if tree is None:
         return 0
-    return depth + nodeDepthsRecursive(tree.left,depth+1)+nodeDepthsRecursive(tree.right,depth+1)
+    left = nodeDepthsRecursive(tree.left,depth+1)
+    right = nodeDepthsRecursive(tree.right,depth+1)
+    return depth + left + right
+
 # 通过一个栈，将树中的结点放入，并依次弹出，如果弹出的结点为空就skip
 # O(N) O(h)
 def nodeDepthsIterative(tree):
@@ -123,7 +129,7 @@ def swap(tree):
 def branchSums(tree):
     return calculateBranchSums(tree, 0, [])
 
-def maxPathSum(tree):
+def maxHeightSum(tree):
     array = calculateBranchSums(tree, 0, [])
     arraySorted = sorted(array)
     return arraySorted[0] + arraySorted[2] - tree.value
@@ -142,6 +148,28 @@ def calculateBranchSums(tree, runningSum, sums):
     return sums
 
 
+def maxPathSum(tree):
+    _, maxSum = findMaxSum(tree)
+    return maxSum
+
+
+def findMaxSum(tree):
+    if tree is None:
+        return (0, float("-inf"))
+    # 		返回两个值，第一个是branch 第二个包括父结点
+    leftMaxSumAsBranch, leftMaxPathSum = findMaxSum(tree.left)
+    rightMaxSumAsBranch, rightMaxPathSum = findMaxSum(tree.right)
+
+    maxChildSumAsBranch = max(leftMaxSumAsBranch, rightMaxSumAsBranch)
+
+    value = tree.value
+    maxSumAsBranch = max(maxChildSumAsBranch + value, value)
+    maxSumAsRootNode = max(leftMaxSumAsBranch + value + rightMaxSumAsBranch, maxSumAsBranch)
+    maxPathSum = max(leftMaxPathSum, rightMaxPathSum, maxSumAsRootNode)
+
+    return (maxSumAsBranch, maxPathSum)
+
+
 root = BST(10)
 insert(root,5)
 insert(root,15)
@@ -155,11 +183,14 @@ insert(root,16)
 # insert(root,14)
 # remove(root,14)
 # remove(root,1)
+
 # print(inOrderTraverses(root,[]))
 # print(contain(root,11))
 # print(nodeDepthsIterative(root))
+# print(nodeDepthsRecursive(root))
 # print(inOrderTraverses(root,[]))
 # print(invertBinaryTree(root))
+
 # print(branchSums(root))
 print(maxPathSum(root))
 
