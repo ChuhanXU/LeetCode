@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3129e79-4cd3-4ba8-a62c-f8063a1c32c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jiuzhang/levenshteinDistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/matrixFastPower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/penBox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/shortestPathToTheDestination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/waterArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/fastPower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/minimumStep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/reachingPoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/sparseMatrixMultiplication.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/levenshteinDistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/levenshteinDistance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/waterArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/waterArea.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +53,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Binary Search Trees" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xuchu\algorithm\Binary Search Trees" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuchu\algorithm\Dynamic Programming" />
       <recent name="C:\Users\xuchu\algorithm\Goldman OA" />
       <recent name="C:\Users\xuchu\algorithm\Arrays" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xuchu\algorithm\Binary Search Trees" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.waterArea">
-    <configuration name="matrixFastPower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sparseMatrixMultiplication">
+    <configuration name="levenshteinDistance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +76,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/matrixFastPower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/levenshteinDistance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,29 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Goldman OA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Goldman OA/maxSubstring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="penBox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="minimumStep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +98,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/penBox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/minimumStep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shortestPathToTheDestination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reachingPoints" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +120,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/shortestPathToTheDestination.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/reachingPoints.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sparseMatrixMultiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/sparseMatrixMultiplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +164,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/waterArea.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\xuchu\algorithm\Dynamic Programming\waterArea.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sparseMatrixMultiplication" />
+        <item itemvalue="Python.reachingPoints" />
+        <item itemvalue="Python.minimumStep" />
+        <item itemvalue="Python.levenshteinDistance" />
         <item itemvalue="Python.waterArea" />
-        <item itemvalue="Python.penBox" />
-        <item itemvalue="Python.matrixFastPower" />
-        <item itemvalue="Python.maxSubstring" />
-        <item itemvalue="Python.shortestPathToTheDestination" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +203,8 @@
       <workItem from="1595771742093" duration="15084000" />
       <workItem from="1595816393096" duration="4231000" />
       <workItem from="1595857779830" duration="19150000" />
-      <workItem from="1596033317535" duration="3051000" />
+      <workItem from="1596033317535" duration="18523000" />
+      <workItem from="1596081380314" duration="5212000" />
     </task>
     <servers />
   </component>
@@ -213,42 +216,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595249993200" />
-    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1596033939631">
+    <state width="765" height="317" key="GridCell.Tab.0.bottom" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596033939631" />
-    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1596033939631">
+    <state width="765" height="317" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.0.center" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596033939631" />
-    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1596033939631">
+    <state width="765" height="317" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.0.left" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596033939631" />
-    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1596033939631">
+    <state width="765" height="317" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.0.right" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596033939631" />
-    <state width="1493" height="255" key="GridCell.Tab.1.bottom" timestamp="1596033940878">
+    <state width="765" height="317" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.1.bottom" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596033940878" />
-    <state width="1493" height="255" key="GridCell.Tab.1.center" timestamp="1596033940878">
+    <state width="765" height="317" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.1.center" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596033940878" />
-    <state width="1493" height="255" key="GridCell.Tab.1.left" timestamp="1596033940878">
+    <state width="765" height="317" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.1.left" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596033940878" />
-    <state width="1493" height="255" key="GridCell.Tab.1.right" timestamp="1596033940878">
+    <state width="765" height="317" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state width="765" height="317" key="GridCell.Tab.1.right" timestamp="1596088707501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596033940878" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1596033320823">
+    <state width="765" height="317" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596088707501" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1596081387728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596033320823" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596081387728" />
     <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595252768777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -372,27 +375,50 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/jiuzhang/waterArea.py</url>
+          <url>file://$PROJECT_DIR$/Dynamic Programming/waterArea.py</url>
           <line>19</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/levenshteinDistance.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/minimumStep.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/reachingPoints.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/sparseMatrixMultiplication.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm$smallestDifference.coverage" NAME="smallestDifference Coverage Results" MODIFIED="1595266428404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$reachingPoints.coverage" NAME="reachingPoints Coverage Results" MODIFIED="1596056659720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$moveElementToEnd.coverage" NAME="moveElementToEnd Coverage Results" MODIFIED="1595344285453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$longestPeak.coverage" NAME="longestPeak Coverage Results" MODIFIED="1595599220212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$woodCut.coverage" NAME="woodCut Coverage Results" MODIFIED="1595704622986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$matrixFastPower.coverage" NAME="matrixFastPower Coverage Results" MODIFIED="1595909988664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1595338446514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$findMinimumInRotatedSortedTree.coverage" NAME="findMinimumInRotatedSortedTree Coverage Results" MODIFIED="1595705940911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$levenshteinDistance.coverage" NAME="levenshteinDistance Coverage Results" MODIFIED="1596053546090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$fourNumberSum.coverage" NAME="fourNumberSum Coverage Results" MODIFIED="1595359026403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$createTree.coverage" NAME="createTree Coverage Results" MODIFIED="1595717802655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
     <SUITE FILE_PATH="coverage/algorithm$minRewards__1_.coverage" NAME="minRewards (1) Coverage Results" MODIFIED="1595469920966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
     <SUITE FILE_PATH="coverage/algorithm$copyBooks.coverage" NAME="copyBooks Coverage Results" MODIFIED="1595712949837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$zigzagTraverse.coverage" NAME="zigzagTraverse Coverage Results" MODIFIED="1595481559896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$branchSums.coverage" NAME="branchSums Coverage Results" MODIFIED="1595599192491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$sparseMatrixMultiplication.coverage" NAME="sparseMatrixMultiplication Coverage Results" MODIFIED="1596082468953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$numberofWaystoStayintheSamePlaceAfterSomeStepsI.coverage" NAME="numberofWaystoStayintheSamePlaceAfterSomeStepsI Coverage Results" MODIFIED="1595863686801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$LargestRange.coverage" NAME="LargestRange Coverage Results" MODIFIED="1595363152359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$spiralTraverse.coverage" NAME="spiralTraverse Coverage Results" MODIFIED="1595275312586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -404,11 +430,12 @@
     <SUITE FILE_PATH="coverage/algorithm$maxSubsetSumNoAdjacent.coverage" NAME="maxSubsetSumNoAdjacent Coverage Results" MODIFIED="1595719327088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/algorithm$orderCheck.coverage" NAME="orderCheck Coverage Results" MODIFIED="1595599129145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
     <SUITE FILE_PATH="coverage/algorithm$shortestPathToTheDestination.coverage" NAME="shortestPathToTheDestination Coverage Results" MODIFIED="1595863714229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$waterArea.coverage" NAME="waterArea Coverage Results" MODIFIED="1596033939310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$waterArea.coverage" NAME="waterArea Coverage Results" MODIFIED="1596037256747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$monotonicArray.coverage" NAME="monotonicArray Coverage Results" MODIFIED="1595349715304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1595547258091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$penBox.coverage" NAME="penBox Coverage Results" MODIFIED="1595910134452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$minimumStep.coverage" NAME="minimumStep Coverage Results" MODIFIED="1596056572729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$maxPathSumInBinaryTree.coverage" NAME="maxPathSumInBinaryTree Coverage Results" MODIFIED="1595717773561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
   </component>
 </project>
