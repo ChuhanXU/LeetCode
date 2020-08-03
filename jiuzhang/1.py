@@ -1,51 +1,45 @@
-# 只有找到1了才放入队列，如果队列为空了还没有找到1的点，就返回上一级，岛屿数量+1
 import collections
-DIRECTIONS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+
+DIRECTIONS = [
+    (-2, -1), (-2, 1), (-1, 2), (1, 2),
+    (2, 1), (2, -1), (1, -2), (-1, -2),
+]
 
 
-def numIslands( grid):
-    if not grid or not grid[0]:
-        return 0
-
-    islands = 0
-    visited = set()
-    for i in range(len(grid)):
-        for j in range(len(grid[0])):
-            if grid[i][j] and (i, j) not in visited:
-                bfs(grid, i, j, visited)
-                islands += 1
-
-    return islands
 
 
-def bfs(grid, x, y, visited):
-    queue = collections.deque([(x, y)])
-    visited.add((x, y))
+
+def shortestPath(grid, source, destination):
+    queue = collections.deque([(source[0], source[1])])
+    distance = {(source[0], source[1]): 0}
+
     while queue:
         x, y = queue.popleft()
-        for delta_x, delta_y in DIRECTIONS:
-            next_x = x + delta_x
-            next_y = y + delta_y
-            if not is_valid(grid, next_x, next_y, visited):
+        if (x, y) == (destination[0], destination[1]):
+            return distance[(x, y)]
+        for dx, dy in DIRECTIONS:
+            next_x, next_y = x + dx, y + dy
+            if (next_x, next_y) in distance:
                 continue
+            if not is_valid(next_x, next_y, grid):
+                continue
+            distance[(next_x, next_y)] = distance[(x, y)] + 1
             queue.append((next_x, next_y))
-            visited.add((next_x, next_y))
+    return -1
 
-
-def is_valid(grid, x, y, visited):
+def is_valid(x, y, grid):
     n, m = len(grid), len(grid[0])
-    if not (0 <= x < n and 0 <= y < m):
+
+    if x < 0 or x >= n or y < 0 or y >= m:
         return False
-    if (x, y) in visited:
-        return False
-    if grid[x][y] == 0:
-        return False
-    return True
+
+    return not grid[x][y]
 matrix = [
-  [1,1,0,0,0],
-  [0,1,0,0,1],
-  [0,0,0,1,1],
-  [0,0,0,0,0],
-  [0,0,0,0,1]
+    [0, 0, 0],
+    [0, 0, 0],
+    [0, 0, 0]
 ]
-print(numIslands(matrix))
+visited = set()
+source = [2, 0]
+destination = [2, 2]
+print(shortestPath(matrix,source,destination))
