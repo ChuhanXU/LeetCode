@@ -12,7 +12,7 @@ def numIslands(grid,k):
     visited = set()
     for i in range(len(grid)):
         for j in range(len(grid[0])):
-            if grid[i][j] and (i, j) not in visited:
+            if grid[i][j]==1 and (i, j) not in visited:
 
                 if bfs(grid, i, j, visited) >= k:
                     islands += 1
@@ -22,6 +22,7 @@ def numIslands(grid,k):
 
 def bfs(grid, x, y, visited):
     count = 0
+    # 如果没有中括号，队列里会有x，y两个元素
     queue = collections.deque([(x, y)])
     visited.add((x, y))
     while queue:
@@ -39,7 +40,7 @@ def bfs(grid, x, y, visited):
 
 def is_valid(grid, x, y, visited):
     n, m = len(grid), len(grid[0])
-    if not (0 <= x < n and 0 <= y < m):
+    if x<0 or y<0 or x>=n or y>=m:
         return False
     if (x, y) in visited:
         return False
