@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3129e79-4cd3-4ba8-a62c-f8063a1c32c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/String/longestStringWithoutDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Suffix/baseAlgorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Suffix/subarraySumEqualsKDoubleQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/partitionLabels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/longestConseutiveSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/longestConseutiveSubstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/longestPalindromeSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/longestPalindromeSubstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/bestTimetoBuyandSellStock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Suffix/bestTimetoBuyandSellStock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/bigIslands.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/bigIslands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/productOfArrayExceptSelf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Suffix/productOfArrayExceptSelf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/productOfArrayExceptSelfOptimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Suffix/productOfArrayExceptSelfOptimization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/subarraySumEqualsK2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Suffix/subarraySumEqualsK2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/subarraySumEqualsK2Optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Suffix/subarraySumEqualsK2Optimization.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +60,7 @@
       <recent name="C:\Users\xuchu\algorithm\Binary Search Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bigIslands">
+  <component name="RunManager" selected="Python.partitionLabels">
     <configuration name="bestTimetoBuyandSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,28 +105,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="longestPalindromeSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/longestPalindromeSubstring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="longestStringWithoutDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,6 +119,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/longestStringWithoutDuplicates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="partitionLabels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang/Two pointer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/Two pointer/partitionLabels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.partitionLabels" />
         <item itemvalue="Python.bigIslands" />
         <item itemvalue="Python.subarraySumEqualsKDoubleQueue" />
         <item itemvalue="Python.bestTimetoBuyandSellStock" />
         <item itemvalue="Python.longestStringWithoutDuplicates" />
-        <item itemvalue="Python.longestPalindromeSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +210,9 @@
       <workItem from="1596380372454" duration="12755000" />
       <workItem from="1596437136431" duration="535000" />
       <workItem from="1596555029550" duration="14878000" />
-      <workItem from="1596639595820" duration="12096000" />
+      <workItem from="1596639595820" duration="12735000" />
+      <workItem from="1596739197468" duration="4317000" />
+      <workItem from="1596776659192" duration="915000" />
     </task>
     <servers />
   </component>
@@ -232,46 +224,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596315986805" />
-    <state width="896" height="205" key="GridCell.Tab.0.bottom" timestamp="1596678666992">
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596678666992" />
-    <state width="896" height="205" key="GridCell.Tab.0.center" timestamp="1596678666992">
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
+    <state width="1493" height="295" key="GridCell.Tab.0.center" timestamp="1596768258222">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596678666992" />
-    <state width="896" height="205" key="GridCell.Tab.0.left" timestamp="1596678666991">
+    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596768258222" />
+    <state width="1493" height="295" key="GridCell.Tab.0.left" timestamp="1596768258221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596678666991" />
-    <state width="896" height="205" key="GridCell.Tab.0.right" timestamp="1596678666992">
+    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596768258221" />
+    <state width="1493" height="295" key="GridCell.Tab.0.right" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596678666992" />
-    <state width="896" height="295" key="GridCell.Tab.1.bottom" timestamp="1596678186715">
+    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
+    <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="295" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596678186715" />
-    <state width="896" height="295" key="GridCell.Tab.1.center" timestamp="1596678186715">
+    <state width="1493" height="295" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
+    <state width="1493" height="295" key="GridCell.Tab.1.center" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="295" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596678186715" />
-    <state width="896" height="295" key="GridCell.Tab.1.left" timestamp="1596678186715">
+    <state width="1493" height="295" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
+    <state width="1493" height="295" key="GridCell.Tab.1.left" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="295" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596678186715" />
-    <state width="896" height="295" key="GridCell.Tab.1.right" timestamp="1596678186715">
+    <state width="1493" height="295" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
+    <state width="1493" height="295" key="GridCell.Tab.1.right" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="295" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596678186715" />
+    <state width="1493" height="295" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1596300318725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1596300318725" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1596639675551">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1596776660306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596639675551" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596776660306" />
     <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595252768777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -493,6 +485,11 @@
           <line>20</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/partitionLabels.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -525,6 +522,7 @@
     <SUITE FILE_PATH="coverage/algorithm$productOfArrayExceptSelfOptimization.coverage" NAME="productOfArrayExceptSelfOptimization Coverage Results" MODIFIED="1596208254494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$penBox.coverage" NAME="penBox Coverage Results" MODIFIED="1595910134452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$partitionLabels.coverage" NAME="partitionLabels Coverage Results" MODIFIED="1596743123750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$bigIslands.coverage" NAME="bigIslands Coverage Results" MODIFIED="1596678666930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$angryBossNormal.coverage" NAME="angryBossNormal Coverage Results" MODIFIED="1596562396661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$reachingPoints.coverage" NAME="reachingPoints Coverage Results" MODIFIED="1596056659720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
