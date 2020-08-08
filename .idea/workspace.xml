@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3129e79-4cd3-4ba8-a62c-f8063a1c32c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/partitionLabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/pickApple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/thekthSubarray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/waterArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/waterArea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/twoNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/twoNumberSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,29 +63,7 @@
       <recent name="C:\Users\xuchu\algorithm\Binary Search Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.partitionLabels">
-    <configuration name="bestTimetoBuyandSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\xuchu\algorithm\Suffix\bestTimetoBuyandSellStock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.thekthSubarray">
     <configuration name="bigIslands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,28 +78,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/bigIslands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="longestStringWithoutDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/longestStringWithoutDuplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subarraySumEqualsKDoubleQueue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pickApple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +116,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Suffix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang/Two pointer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Suffix/subarraySumEqualsKDoubleQueue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/Two pointer/pickApple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thekthSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang/Two pointer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/Two pointer/thekthSubarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twoNumberSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang/Two pointer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/Two pointer/twoNumberSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.thekthSubarray" />
+        <item itemvalue="Python.pickApple" />
+        <item itemvalue="Python.twoNumberSum" />
         <item itemvalue="Python.partitionLabels" />
         <item itemvalue="Python.bigIslands" />
-        <item itemvalue="Python.subarraySumEqualsKDoubleQueue" />
-        <item itemvalue="Python.bestTimetoBuyandSellStock" />
-        <item itemvalue="Python.longestStringWithoutDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +216,7 @@
       <workItem from="1596639595820" duration="12735000" />
       <workItem from="1596739197468" duration="4317000" />
       <workItem from="1596776659192" duration="915000" />
+      <workItem from="1596809521222" duration="19764000" />
     </task>
     <servers />
   </component>
@@ -224,22 +228,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596315986805" />
-    <state width="1493" height="295" key="GridCell.Tab.0.bottom" timestamp="1596768258223">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1596863232981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
-    <state width="1493" height="295" key="GridCell.Tab.0.center" timestamp="1596768258222">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596863232981" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1596863232981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596768258222" />
-    <state width="1493" height="295" key="GridCell.Tab.0.left" timestamp="1596768258221">
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596863232981" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1596863232980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596768258221" />
-    <state width="1493" height="295" key="GridCell.Tab.0.right" timestamp="1596768258223">
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596863232980" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1596863232981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596768258223" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596863232981" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1596768258223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -260,10 +264,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1596300318725" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1596776660306">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1596809521628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596776660306" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596809521628" />
     <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595252768777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -392,7 +396,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Dynamic Programming/waterArea.py</url>
-          <line>19</line>
+          <line>30</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -467,7 +471,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/twoNumberSum.py</url>
-          <line>11</line>
+          <line>16</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -501,6 +505,7 @@
     <SUITE FILE_PATH="coverage/algorithm$woodCut.coverage" NAME="woodCut Coverage Results" MODIFIED="1595704622986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$findWordsOptimization.coverage" NAME="findWordsOptimization Coverage Results" MODIFIED="1596311647320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$findMinimumInRotatedSortedTree.coverage" NAME="findMinimumInRotatedSortedTree Coverage Results" MODIFIED="1595705940911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$pickApple.coverage" NAME="pickApple Coverage Results" MODIFIED="1596855498673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$levenshteinDistance.coverage" NAME="levenshteinDistance Coverage Results" MODIFIED="1596053546090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$fourNumberSum.coverage" NAME="fourNumberSum Coverage Results" MODIFIED="1595359026403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$minRewards__1_.coverage" NAME="minRewards (1) Coverage Results" MODIFIED="1595469920966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
@@ -519,6 +524,7 @@
     <SUITE FILE_PATH="coverage/algorithm$orderCheck.coverage" NAME="orderCheck Coverage Results" MODIFIED="1595599129145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
     <SUITE FILE_PATH="coverage/algorithm$shortestPathToTheDestination.coverage" NAME="shortestPathToTheDestination Coverage Results" MODIFIED="1596315999757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$waterArea.coverage" NAME="waterArea Coverage Results" MODIFIED="1596037256747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$thekthSubarray.coverage" NAME="thekthSubarray Coverage Results" MODIFIED="1596861805464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$productOfArrayExceptSelfOptimization.coverage" NAME="productOfArrayExceptSelfOptimization Coverage Results" MODIFIED="1596208254494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$penBox.coverage" NAME="penBox Coverage Results" MODIFIED="1595910134452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
@@ -534,7 +540,7 @@
     <SUITE FILE_PATH="coverage/algorithm$substringWithAtLeastKDistinctCharacters.coverage" NAME="substringWithAtLeastKDistinctCharacters Coverage Results" MODIFIED="1596577731034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1595338446514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$createTree.coverage" NAME="createTree Coverage Results" MODIFIED="1595717802655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$twoNumberSum.coverage" NAME="twoNumberSum Coverage Results" MODIFIED="1596580500690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$twoNumberSum.coverage" NAME="twoNumberSum Coverage Results" MODIFIED="1596840799476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$copyBooks.coverage" NAME="copyBooks Coverage Results" MODIFIED="1595712949837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$LargestRange.coverage" NAME="LargestRange Coverage Results" MODIFIED="1595363152359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$threeNumberSum.coverage" NAME="threeNumberSum Coverage Results" MODIFIED="1595703030040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />

@@ -1,12 +1,17 @@
 def twoNumberSum(nums,target):
     hash = {}
     n = len(nums)
+    array=[]
     for i in range(n):
         potentialMatch = target - nums[i]
         if potentialMatch in hash:
-            return(i,hash[potentialMatch])
+            array.append([i,hash[potentialMatch]])
         else:
             hash[nums[i]] = i
-    return []
+    for pair in array:
+        pair[0],pair[1]=pair[1],pair[0]
 
-print (twoNumberSum([-12,13,14],1))
+
+    return array
+
+print (twoNumberSum([0,-1,2,-3,4],1))
