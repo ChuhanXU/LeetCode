@@ -1,4 +1,5 @@
 # 只有找到1了才放入队列，如果队列为空了还没有找到1的点，就返回上一级，岛屿数量+1
+# time O(n^2)
 import collections
 DIRECTIONS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
@@ -35,7 +36,7 @@ def bfs(grid, x, y, visited):
 
 def is_valid(grid, x, y, visited):
     n, m = len(grid), len(grid[0])
-    if not (0 <= x < n and 0 <= y < m):
+    if x < 0 or y < 0 or x >= n or y >= m:
         return False
     if (x, y) in visited:
         return False

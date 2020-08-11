@@ -1,14 +1,16 @@
 import collections
 DIRECTIONS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
-# 1.遍历整个矩阵，对矩阵中没有visited的点进行BFS
+# 1.在主函数中，遍历整个矩阵，对矩阵中没有visited并且是陆地i的点进行BFS
 # 2.遍历四个方向，判断是否可以加入队列
 # 3，先判断点是否可以加入队列的函数
+# 4. 在队列pop元素的时候，count+=1 计数这个岛屿有多少个1
 def numIslands(grid,k):
     if not grid or not grid[0]:
         return 0
 
     islands = 0
+    # 用一个set记录访问过的点
     visited = set()
     for i in range(len(grid)):
         for j in range(len(grid[0])):
@@ -23,6 +25,7 @@ def numIslands(grid,k):
 def bfs(grid, x, y, visited):
     count = 0
     # 如果没有中括号，队列里会有x，y两个元素
+    # 如果写成((x, y)),队列会认为你有两个元素
     queue = collections.deque([(x, y)])
     visited.add((x, y))
     while queue:
