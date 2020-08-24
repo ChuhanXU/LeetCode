@@ -169,6 +169,21 @@ def findMaxSum(tree):
 
     return (maxSumAsBranch, maxPathSum)
 
+def diameterOfBinaryTree(tree):
+    longest,diameter = helper(tree)
+    return diameter
+
+def helper(tree):
+    if tree is None:
+        return 0,0
+    left_longest, left_diameter = helper(tree.left)
+    right_longest, right_diameter = helper(tree.right)
+
+    longest = max(left_longest,right_longest)+1
+    diameter = max (left_diameter,right_diameter,left_longest+right_longest)
+
+    return longest,diameter
+
 
 root = BST(10)
 insert(root,5)
@@ -192,7 +207,7 @@ insert(root,16)
 # print(invertBinaryTree(root))
 
 # print(branchSums(root))
-print(maxPathSum(root))
+print(diameterOfBinaryTree(root))
 
 
 

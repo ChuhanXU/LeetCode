@@ -7,28 +7,30 @@ class Solution:
     @return: An integer
     """
 
-    def longestConsecutive(self, num):
-        longestlength = 0
-        hash = {}
-        for number in num:
-            hash[number] = True
+def longestConsecutive(num):
+    longestlength = 0
+    hash = {}
+    for number in num:
+        hash[number] = True
 
-        for number in num:
-            if not hash[number]:
-                continue
+    for number in num:
+        if not hash[number]:
+            continue
 
-            hash[number] = False
-            currentlength = 1
-            left = number - 1
-            right = number + 1
-            while left in hash:
-                hash[left] = False
-                currentlength += 1
-                left -= 1
-            while right in hash:
-                hash[right] = False
-                currentlength += 1
-                right += 1
-            if currentlength > longestlength:
-                longestlength = currentlength
-        return longestlength
+        hash[number] = False
+        currentlength = 1
+        left = number - 1
+        right = number + 1
+        while left in hash:
+            hash[left] = False
+            currentlength += 1
+            left -= 1
+        while right in hash:
+            hash[right] = False
+            currentlength += 1
+            right += 1
+        if currentlength > longestlength:
+            longestlength = currentlength
+    return longestlength
+num = [3,2,7,5,6,6]
+print(longestConsecutive(num))

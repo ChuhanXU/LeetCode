@@ -1,0 +1,53 @@
+一·二叉树
+二叉树的最优时间复杂度是O(n),if BST is a unbalanced tree, BST的 optimal time complexity是O(h),otherwise, O(log(n))
+二叉树问题主要从普通二叉树和二叉搜索树两个方向考察
+we can use recursive to achieve divide and conquer algorithm
+solving this kind of problem by breaking a complex problem into some small problems
+递归问题的三要素 定义 出口 拆解
+针对树的递归问题我们要确定传入和传出的参数，如何合并
+
+1.普通二叉树上的dfs可以分为两类
+dfs method about binary tree can be separated in two categories
+a 求值类：求满足条件的路径
+calculating value: the number of tree path that satisfied requirements
+二叉树的直径  the diameter of binary tree
+二叉树的最大路径和  the max path sum of binary tree
+打劫房屋3 Robber house3 同样需要维护两个变量 打劫此房屋的最大收益和不打劫此房屋的收益
+多叉树的最长路径-dfs解法 需要建图，即使有很多叉，找到两个最长的叉
+多叉树的最长路径-bfs解法
+b 操作类：将树转化为其它的样子，对树进行修改
+operating: transfer binary tree to another data structure
+将二叉树转为链表：transfer(flatten) binary tree to linked list
+
+2.二叉搜索树：通过二叉树的特性来进行操作
+operating based on special characters of binary tree
+二叉搜索树的中序前驱节点:某节点的中序前驱节点一定是他的左子节点的右右右子节点(如果存在)也有可能是最近左父亲
+inorder predecessor in BST
+
+一个设计树的结构的题(继承人树)
+
+
+二·搜索类 非二叉树的dfs问题
+DFS的参数和返回值
+a.什么时候需要参数（二叉树最大路径和I）
+从上往下，dfs的过程需要从父节点知道一定的信息（当前和，路径存储位置，答案存储位置）
+b.什么时候需要返回值（子树获得的最大收益535）（LCA）子树是否找到LCA
+从下往上，dfs的过程需要从子节点知道一些信息，这部分信息无法记录在参数中（一般是整数或者布尔类型)
+
+DFS的时间复杂度如何计算？
+经过了多少点，每个点经过了多少次
+有多次重复遍历:指数级 exponential complexity
+常数级别的重复遍历:多项式复杂度
+剪枝不改变时间复杂度
+记忆化搜索可以将指数级时间复杂度降低至多项式级别复杂度
+
+为啥要用DFS? 搜索答案，枚举所有可能
+劣势: 时间复杂度一般较高
+1.生成括号 generate parentheses 枚举
+2.单词拆分 word break DFS or Dynamic Planning
+3.因式分解 factories DFS and Backtracking
+4.全排列 permutation
+5.课程表IV DFS回溯+时间复杂度估算(如果我们要返回一个方案可以使用BFS+拓扑排序，如果要返回所有的方案，使用DFS加回溯)
+
+
+
