@@ -14,7 +14,7 @@ def numIslands(grid):
     visited = set()
     for i in range(len(grid)):
         for j in range(len(grid[0])):
-            if grid[i][j] and (i, j) not in visited:
+            if grid[i][j]==1 and (i, j) not in visited:
                 bfs(grid, i, j, visited)
                 islands += 1
 
@@ -22,6 +22,7 @@ def numIslands(grid):
 
 
 def bfs(grid, x, y, visited):
+    # 队列里放的是坐标，但是要以list的形式放进去
     queue = collections.deque([(x, y)])
     visited.add((x, y))
     while queue:

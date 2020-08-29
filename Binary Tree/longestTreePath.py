@@ -19,7 +19,7 @@ def longestPath(n, starts, ends, lens):
 
         neighbors[start].append((end, dist))
         neighbors[end].append((start, dist))
-    # return:离root最远的点，该点离root的距离
+    # return:离root最远的点，该点离root的距离,start 是离root最远的点，root可以任意选择，
     start, _ = bfs(0, neighbors)
     end, answer = bfs(start, neighbors)
     return answer

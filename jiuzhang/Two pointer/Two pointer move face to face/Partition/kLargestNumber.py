@@ -8,14 +8,14 @@ class Solution:
     @return: the Kth largest element
     """
 
-    def kthLargestElement(self, n, nums):
+    def kthLargestElement(self, k, nums):
         # write your code here
         if len(nums) == 0:
             return 0
-        result = self.quickSort(nums, n, 0, len(nums) - 1)
+        result = self.quickSort(nums, k, 0, len(nums) - 1)
         return result
 
-    def quickSort(self, nums, n, start, end):
+    def quickSort(self, nums, k, start, end):
         # 当区间只剩下一个的时候，就找到了
         if start == end:
             return nums[start]
@@ -32,11 +32,11 @@ class Solution:
                 left += 1
                 right -= 1
 
-        if start + n - 1 <= right:
-            return self.quickSort(nums, n, start, right)
+        if start + k - 1 <= right:
+            return self.quickSort(nums, k, start, right)
         # 这边n要变化是因为如果确定第n大的数在右边，left前面的数(left-start)个就都不要了
-        if start + n - 1 >= left:
-            return self.quickSort(nums, n - (left - start), left, end)
+        if start + k - 1 >= left:
+            return self.quickSort(nums, k - (left - start), left, end)
         # 这种情况是right 和 left 之间正好隔了一个数
         else:
             return nums[right + 1]

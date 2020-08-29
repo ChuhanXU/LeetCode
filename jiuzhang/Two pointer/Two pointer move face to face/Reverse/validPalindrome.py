@@ -9,7 +9,7 @@ def validPalindrome(string):
         return False
     left,right = 0,len(string)-1
     while left < right:
-        while left<right and not is_valid(string[left]):
+        while left < right and not is_valid(string[left]):
             left += 1
         while left < right and not is_valid(string[right]):
             right -= 1
