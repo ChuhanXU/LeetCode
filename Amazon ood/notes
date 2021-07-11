@@ -1,0 +1,84 @@
+创建 hash
+hash={}
+hash.keys()返回keys的列表，注意返回的是列表形式
+hash.values()返回values的列表
+hash.pop(key)删除指定元素By key
+
+# for key,value in hash 要用hash.items()不然会出现object not iterate error
+hash 删除元素 hash.pop(key),hash 没有remove函数 一定要记住！！！！
+如果想用hash[key]= 等于一个列表，要先创建一个list 不能直接append，加个[]就好
+ if followeeId not in self.followerfee.keys():
+            self.followerfee[followeeId]=[followerId]
+        else:
+            self.followerfee[followeeId].append(followerId)
+        return self.followerfee
+
+
+创建list
+list=[]
+list 删除指定元素 list.remove(value)
+list 增加元素 list.append()
+逆序遍历数组
+reversed(list)是一个object 要加list(reversed(list))转换数据类型
+for i in range(len(a)-1,-1,-1):
+    print(a[i], end=" ")
+
+
+
+创建queue
+queue = collections.deque()
+queue.pop()会删掉队列中最右边的值
+queue.popleft()会删掉队列中最左边的值
+注意：list不能用popleft
+queue.remove()删掉指定元素的值
+while queue 可以直接队列非空
+
+
+
+创建计数器Counter 可以用来统计列表中各个元素出现的次数
+返回一个hash表
+cnt= collections.Counter()
+words=['red', 'blue', 'red', 'green', 'blue', 'blue']
+for word in words:
+cnt[word]+=1
+print(cnt) {'blue': 3, 'red': 2, 'green': 1}
+a=cnt.most_common(2)
+[('blue', 3), ('red', 2)]
+print(a[0][1])=3
+
+创建一个tuple
+a=()
+a=(3,3)
+x,y=a
+我们可以得到x=3,y=3
+
+创建一个set
+a={}或a=set()
+set中没有重复元素
+a.add(value) 添加set 元素
+
+什么时候需要建图：
+if we can't find the adjacent point using o(1) time
+
+大小写转换
+a.upper()
+a.lower()
+
+
+heapq.heappush(array,num),默认最小堆，开头元素是最小的
+heapq.heappop()取出最小元素
+
+排序
+intervals = [(0,30),(5,10),(15,20)]
+intervals = sorted(intervals,key=lambda interval:interval[0])
+
+random.randrange(start, stop[, step])
+
+string
+data="1,2,3,4"
+nodes = data.split(',')
+print(nodes)
+['1', '2', '3', '4']
+
+
+

@@ -2,36 +2,159 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3129e79-4cd3-4ba8-a62c-f8063a1c32c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Search Trees/longestPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robinhood/merging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/BFS/binaryTreeLevelOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/BFS/friendCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/BFS/wordLadder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move back to back/KClosestElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/partitionArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/positivenegativeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/sortColor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/4Sum2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/4sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/sum3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/trangleCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/twoSum3DatastructureDesign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/uniqueSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分法/lastAppear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分法/searchSortedRotatedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分法/unsorted/findPeakElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/LRUmiss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/MatrixSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/MaxOfMinAltitudes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/MaximumUnits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/MinimumDifficultyofaJobSchedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/Most frequent word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/Squared Shortest Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/SubtreewithMaximumAverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/Two sum-unique pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/baseballscore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/copyListWithRandomPointers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/countClusters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/criticalConnections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/criticalRouters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/debt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/diskSpaceAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/distinctProductAfterRemoving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/favoriteGenres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/findRelatedProducta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/fruitlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/itemsPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/mergeTwoSortedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/nearestCity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/numberOfLevelUpPlayer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/primeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/productProfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/productSuggestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/spiralMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/subtreeOfAnotherTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/totalTeam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/unhappyPalindrom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon OA2/windowMinimums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/Alian Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/AnagramGroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/Binary Tree Serialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/Bindarytree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/JobSchedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/Product of Array Except Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/ShortestPath with fixed start and end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/String to Integer (atoi).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/WordBreak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/bfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/closeTargetTwoSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/count0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/course Schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/decodeways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/find median from data stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/findClosestSumTarget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/findmedianFromDataStream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/hashCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/houserobber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/inorder BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/k Top Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/k largest element partition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/longestConsecutiveSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/maxDepthBinayTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/meeting room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/merge Interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/permutation and combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/removeDuplicats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/reversedLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/sodok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/sum3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/twoSumTargetBST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/twosum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/validBrackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/waterArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/wordLadder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon Second/wordLadder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon ood/Classification" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon ood/DesignTwitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon ood/Least Recent Used.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon ood/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon ood/steps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/MostCommonWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Subtree with Maximum Average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/characterOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/mergeTwoLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/minStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/optimalUtilization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/pathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/pathSum3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/subset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/LetterCombinationsOfPhoneNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/introduction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/outputBinaryTreePaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search Trees/BinarySearchTreeIterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/maxSubtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide Conquer/Serialize and Deserialize Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide Conquer/balancedTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMapHashSet/HashFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMapHashSet/reHash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMapHashSet/summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/mergeTwoPackages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/BFS/Summary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/BFS/numberOfIslands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/AncestralNames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/Construction Management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/Efficient Shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/LargestSubGrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/LiftingWeights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/PaintCeiling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/Prison Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/Word Compression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/competitive gaming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/pilesBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roblox/questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twilio/segments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twilio/vanityNumberSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/accountNumberValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/bb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/keras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/longestPath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/torch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akuna/travelDistance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview practice/region.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/BFS/cloneGraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/DFS/Lowest Common Ancestor of a Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/DFS/TSP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/DFS/lowestCommonAncestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/DFS/minimumSubtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiuzhang/DFS/permutation2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parentLCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Tree/longestTreePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/longestTreePath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robinhood/matrixRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robinhood/matrixRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robinhood/zigzag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robinhood/zigzag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/knight2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/knightShortestPath.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/knightShortestPath3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/threeNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/threeNumberSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/createBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/createBinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/diameterOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/diameterOfBinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/flattenBinaryTreeToLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/flattenBinaryTreeToLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summary" beforeDir="false" afterPath="$PROJECT_DIR$/Summary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/bigIslands.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/bigIslands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/binaryTreeLevelOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/binaryTreeLevelOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/knight2.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/knight2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/knightShortestPath3.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/knightShortestPath3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/numberOfIslands.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/numberOfIslands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/shortestPathToTheDestination.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/shortestPathToTheDestination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/wordLadder.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/wordLadder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/BFS/zombieInMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/BFS/zombieInMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE/combination1.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE/combination1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE/combination2.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE/combination2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/DFS/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/DFS/permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move back to back/KClosestElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move back to back/KClosestElement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/kLargestNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/kLargestNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/mergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/mergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/quickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/quickSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/quikSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/quikSelect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/selectMedian.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/quickSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Reverse/validPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Reverse/validPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiuzhang/woodCut.py" beforeDir="false" afterPath="$PROJECT_DIR$/二分法/answerSorted/woodCut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/sum3.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum/sum3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +178,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -74,23 +198,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Suffix" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\xuchu\algorithm\二分法\answerSorted" />
-      <recent name="C:\Users\xuchu\algorithm\jiuzhang\Two pointer\Two pointer move face to face\TwoSum" />
-      <recent name="C:\Users\xuchu\algorithm\jiuzhang\Two pointer\Two pointer move face to face\Reverse" />
-      <recent name="C:\Users\xuchu\algorithm\Binary Tree" />
-      <recent name="C:\Users\xuchu\algorithm\jiuzhang\BFS" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xuchu\algorithm\Suffix" />
       <recent name="C:\Users\xuchu\algorithm\jiuzhang" />
       <recent name="C:\Users\xuchu\algorithm\Binary Search Trees" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuchu\algorithm\Amazon OA2" />
+      <recent name="C:\Users\xuchu\algorithm\二分法\answerSorted" />
+      <recent name="C:\Users\xuchu\algorithm\jiuzhang\Two pointer\Two pointer move face to face\TwoSum" />
+      <recent name="C:\Users\xuchu\algorithm\jiuzhang\Two pointer\Two pointer move face to face\Reverse" />
+      <recent name="C:\Users\xuchu\algorithm\Binary Tree" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.friendCircle">
-    <configuration name="findPeakElement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bb">
+    <configuration name="Efficient Shipping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,12 +229,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二分法/unsorted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Roblox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分法/unsorted/findPeakElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roblox/Efficient Shipping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="friendCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PaintCeiling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,12 +251,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang/BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Roblox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/BFS/friendCircle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roblox/PaintCeiling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numberOfIslands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +273,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiuzhang/BFS" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/akuna" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiuzhang/BFS/numberOfIslands.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/akuna/bb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="competitive gaming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Roblox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roblox/competitive gaming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="searchSortedRotatedArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pilesBox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,34 +339,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二分法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Roblox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分法/searchSortedRotatedArray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="woodCut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二分法/answerSorted" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分法/answerSorted/woodCut.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roblox/pilesBox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.friendCircle" />
-        <item itemvalue="Python.numberOfIslands" />
-        <item itemvalue="Python.searchSortedRotatedArray" />
-        <item itemvalue="Python.woodCut" />
-        <item itemvalue="Python.findPeakElement" />
+        <item itemvalue="Python.bb" />
+        <item itemvalue="Python.pilesBox" />
+        <item itemvalue="Python.Efficient Shipping" />
+        <item itemvalue="Python.competitive gaming" />
+        <item itemvalue="Python.PaintCeiling" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +409,54 @@
       <workItem from="1598409357250" duration="6248000" />
       <workItem from="1598486158485" duration="2883000" />
       <workItem from="1598576992404" duration="28784000" />
+      <workItem from="1598715621469" duration="16562000" />
+      <workItem from="1598751482452" duration="58747000" />
+      <workItem from="1599054295910" duration="11038000" />
+      <workItem from="1599345013808" duration="12935000" />
+      <workItem from="1599407885190" duration="37279000" />
+      <workItem from="1599673158773" duration="1847000" />
+      <workItem from="1599766139541" duration="10656000" />
+      <workItem from="1600138435401" duration="12777000" />
+      <workItem from="1600744032473" duration="15360000" />
+      <workItem from="1600992689267" duration="23069000" />
+      <workItem from="1601303542052" duration="41948000" />
+      <workItem from="1601413073811" duration="22797000" />
+      <workItem from="1601590333746" duration="9486000" />
+      <workItem from="1602345965023" duration="5329000" />
+      <workItem from="1602623424675" duration="15456000" />
+      <workItem from="1602689358537" duration="25071000" />
+      <workItem from="1602770530178" duration="137664000" />
+      <workItem from="1603161354150" duration="35583000" />
+      <workItem from="1603251708132" duration="582000" />
+      <workItem from="1603278746187" duration="1461000" />
+      <workItem from="1603292946977" duration="3699000" />
+      <workItem from="1603307951025" duration="2164000" />
+      <workItem from="1604205771134" duration="3290000" />
+      <workItem from="1604421545783" duration="32000" />
+      <workItem from="1604422846274" duration="230000" />
+      <workItem from="1606508249830" duration="15455000" />
+      <workItem from="1606675946539" duration="9957000" />
+      <workItem from="1607233723416" duration="1580000" />
+      <workItem from="1607407214862" duration="1357000" />
+      <workItem from="1607544228987" duration="1411000" />
+      <workItem from="1607547036876" duration="6536000" />
+      <workItem from="1607747329182" duration="1516000" />
+      <workItem from="1607748944438" duration="655000" />
+      <workItem from="1607922957368" duration="1264000" />
+      <workItem from="1608474589582" duration="14986000" />
+      <workItem from="1609118713671" duration="4921000" />
+      <workItem from="1609211131525" duration="2009000" />
+      <workItem from="1609292842876" duration="1877000" />
+      <workItem from="1609684026216" duration="966000" />
+      <workItem from="1609725003882" duration="1941000" />
+      <workItem from="1609730458948" duration="249000" />
+      <workItem from="1610388136240" duration="2205000" />
+      <workItem from="1610542824384" duration="5146000" />
+      <workItem from="1611362756223" duration="3257000" />
+      <workItem from="1611519248461" duration="4044000" />
+      <workItem from="1612043606198" duration="2090000" />
+      <workItem from="1612228911196" duration="40000" />
+      <workItem from="1621864031839" duration="3018000" />
     </task>
     <servers />
   </component>
@@ -263,74 +464,51 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596315986805">
+    <state x="528" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608476106924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596315986805" />
-    <state x="528" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598151250590">
+    <state x="528" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1608476106924" />
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom" timestamp="1608562313669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="528" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598151250590" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1598676354099">
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608562313669" />
+    <state width="1493" height="273" key="GridCell.Tab.0.center" timestamp="1608562313669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869132" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598676354099" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1598676354098">
+    <state width="1493" height="273" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608562313669" />
+    <state width="1493" height="273" key="GridCell.Tab.0.left" timestamp="1608562313668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869131" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598676354098" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1598676354098">
+    <state width="1493" height="273" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608562313668" />
+    <state width="1493" height="273" key="GridCell.Tab.0.right" timestamp="1608562313669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869131" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598676354098" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1598676354099">
+    <state width="1493" height="273" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608562313669" />
+    <state width="1493" height="273" key="GridCell.Tab.1.bottom" timestamp="1608562313670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869131" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598676354099" />
-    <state width="1493" height="268" key="GridCell.Tab.1.bottom" timestamp="1598676354100">
+    <state width="1493" height="273" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608562313670" />
+    <state width="1493" height="273" key="GridCell.Tab.1.center" timestamp="1608562313669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869103" />
-    <state width="1493" height="268" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598676354100" />
-    <state width="1493" height="268" key="GridCell.Tab.1.center" timestamp="1598676354100">
+    <state width="1493" height="273" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608562313669" />
+    <state width="1493" height="273" key="GridCell.Tab.1.left" timestamp="1608562313669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869102" />
-    <state width="1493" height="268" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598676354100" />
-    <state width="1493" height="268" key="GridCell.Tab.1.left" timestamp="1598676354100">
+    <state width="1493" height="273" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608562313669" />
+    <state width="1493" height="273" key="GridCell.Tab.1.right" timestamp="1608562313669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869101" />
-    <state width="1493" height="268" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598676354100" />
-    <state width="1493" height="268" key="GridCell.Tab.1.right" timestamp="1598676354100">
+    <state width="1493" height="273" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608562313669" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1604423069089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="197" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1597981869102" />
-    <state width="1493" height="268" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598676354100" />
-    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1596300318725">
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604423069089" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1612228911182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1596300318725" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1598576993909">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598576993909" />
-    <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595252768777">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="332" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1595252768777" />
-    <state x="474" y="168" width="588" height="488" key="find.popup" timestamp="1595791157134">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="474" y="168" width="588" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1595791157134" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598219308530">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598219308530" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1612228911182" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612043809702" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -501,11 +679,6 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/jiuzhang/BFS/knightShortestPath3.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/Heaters.py</url>
           <line>33</line>
           <option name="timeStamp" value="73" />
@@ -537,7 +710,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/BFS/zombieInMatrix.py</url>
-          <line>61</line>
+          <line>62</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -557,7 +730,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Binary Tree/flattenBinaryTreeToLinkedList.py</url>
-          <line>50</line>
+          <line>75</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -602,7 +775,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/DFS/permutation.py</url>
-          <line>34</line>
+          <line>28</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -632,12 +805,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE/combination1.py</url>
-          <line>27</line>
+          <line>23</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE/combination2.py</url>
-          <line>40</line>
+          <line>64</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -656,23 +829,13 @@
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/mergeSort.py</url>
-          <line>80</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/mergeSort.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/1.py</url>
           <line>70</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/kLargestNumber.py</url>
-          <line>44</line>
+          <line>43</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -707,8 +870,208 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jiuzhang/BFS/numberOfIslands.py</url>
-          <line>53</line>
+          <line>54</line>
           <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move back to back/KClosestElement.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon/subset.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Binary Tree/createBinaryTree.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/akuna/travelDistance.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/akuna/accountNumberValidation.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/akuna/longestPath.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/akuna/Statistics.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/DFS/permutation2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HashMapHashSet/HashFunction.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Twilio/segments.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/numberOfLevelUpPlayer.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/productProfit.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/itemsPage.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/unhappyPalindrom.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/diskSpaceAnalysis.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/SubtreewithMaximumAverage.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/subtreeOfAnotherTree.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/nearestCity.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/LRUmiss.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon OA2/debt.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/Longest Palindromic Substring.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon ood/DesignTwitter.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/k Top Number.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition/quickSort.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/k Top Number.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/Alian Dictionary.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/waterArea.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/permutation and combination.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/JobSchedule.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/longestConsecutiveSubstring.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/WordBreak.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/validBrackets.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/AnagramGroup.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/waterArea.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/houserobber.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon Second/decodeways.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Amazon/decode.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/November/mergeTwoPackages.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Roblox/Efficient Shipping.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Roblox/Word Compression.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="192" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -716,129 +1079,213 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm$smallestDifference.coverage" NAME="smallestDifference Coverage Results" MODIFIED="1595266428404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$Introduce.coverage" NAME="Introduce Coverage Results" MODIFIED="1597554046750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS" />
-    <SUITE FILE_PATH="coverage/algorithm$brokenKeyboard.coverage" NAME="brokenKeyboard Coverage Results" MODIFIED="1598239449358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$createBinaryTree.coverage" NAME="createBinaryTree Coverage Results" MODIFIED="1597602135877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
-    <SUITE FILE_PATH="coverage/algorithm$longestPeak.coverage" NAME="longestPeak Coverage Results" MODIFIED="1595599220212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$nearestCity.coverage" NAME="nearestCity Coverage Results" MODIFIED="1601405685550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$createBinaryTree.coverage" NAME="createBinaryTree Coverage Results" MODIFIED="1598975521192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
+    <SUITE FILE_PATH="coverage/algorithm$find_median_from_data_stream.coverage" NAME="find median from data stream Coverage Results" MODIFIED="1602889462755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$course_Schedule.coverage" NAME="course Schedule Coverage Results" MODIFIED="1604422883966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$searchSortedRotatedArray.coverage" NAME="searchSortedRotatedArray Coverage Results" MODIFIED="1598665938032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二分法" />
+    <SUITE FILE_PATH="coverage/algorithm$mergeTwoSortedList.coverage" NAME="mergeTwoSortedList Coverage Results" MODIFIED="1601360609212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
     <SUITE FILE_PATH="coverage/algorithm$woodCut.coverage" NAME="woodCut Coverage Results" MODIFIED="1598660502229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二分法/answerSorted" />
-    <SUITE FILE_PATH="coverage/algorithm$ValidateIPAddress.coverage" NAME="ValidateIPAddress Coverage Results" MODIFIED="1597942917738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
     <SUITE FILE_PATH="coverage/algorithm$findWordsOptimization.coverage" NAME="findWordsOptimization Coverage Results" MODIFIED="1596311647320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$palindromeCutting.coverage" NAME="palindromeCutting Coverage Results" MODIFIED="1598218188280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$findMinimumInRotatedSortedTree.coverage" NAME="findMinimumInRotatedSortedTree Coverage Results" MODIFIED="1595705940911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$fourNumberSum.coverage" NAME="fourNumberSum Coverage Results" MODIFIED="1595359026403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$combination1.coverage" NAME="combination1 Coverage Results" MODIFIED="1597900351863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
-    <SUITE FILE_PATH="coverage/algorithm$minRewards__1_.coverage" NAME="minRewards (1) Coverage Results" MODIFIED="1595469920966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$chocolateJar.coverage" NAME="chocolateJar Coverage Results" MODIFIED="1597978112842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$fruitlist.coverage" NAME="fruitlist Coverage Results" MODIFIED="1601429013816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$Least_Recent_Used.coverage" NAME="Least Recent Used Coverage Results" MODIFIED="1603124065546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon ood" />
     <SUITE FILE_PATH="coverage/algorithm$numberOfIntegersInList.coverage" NAME="numberOfIntegersInList Coverage Results" MODIFIED="1597943305706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$zigzagTraverse.coverage" NAME="zigzagTraverse Coverage Results" MODIFIED="1595481559896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$numberofWaystoStayintheSamePlaceAfterSomeStepsI.coverage" NAME="numberofWaystoStayintheSamePlaceAfterSomeStepsI Coverage Results" MODIFIED="1595863686801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
     <SUITE FILE_PATH="coverage/algorithm$findPeakElement.coverage" NAME="findPeakElement Coverage Results" MODIFIED="1598651877199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二分法/unsorted" />
+    <SUITE FILE_PATH="coverage/algorithm$MostCommonWord.coverage" NAME="MostCommonWord Coverage Results" MODIFIED="1598911590209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
     <SUITE FILE_PATH="coverage/algorithm$spiralTraverse.coverage" NAME="spiralTraverse Coverage Results" MODIFIED="1595275312586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$friendCircle.coverage" NAME="friendCircle Coverage Results" MODIFIED="1598674176300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$subarraySumEqualsKDoubleQueue.coverage" NAME="subarraySumEqualsKDoubleQueue Coverage Results" MODIFIED="1596674694268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Suffix" />
-    <SUITE FILE_PATH="coverage/algorithm$numberOfIslands.coverage" NAME="numberOfIslands Coverage Results" MODIFIED="1598665944134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$numberOfIslands.coverage" NAME="numberOfIslands Coverage Results" MODIFIED="1602803431402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$bestTimetoBuyandSellStock.coverage" NAME="bestTimetoBuyandSellStock Coverage Results" MODIFIED="1598389244341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Suffix" />
+    <SUITE FILE_PATH="coverage/algorithm$MaxOfMinAltitudes.coverage" NAME="MaxOfMinAltitudes Coverage Results" MODIFIED="1601393078762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
     <SUITE FILE_PATH="coverage/algorithm$maxSubstring.coverage" NAME="maxSubstring Coverage Results" MODIFIED="1595890569219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
     <SUITE FILE_PATH="coverage/algorithm$sortMatrixByOccurrences.coverage" NAME="sortMatrixByOccurrences Coverage Results" MODIFIED="1598218257822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$shortestPathToTheDestination.coverage" NAME="shortestPathToTheDestination Coverage Results" MODIFIED="1596315999757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$kLargestNumber.coverage" NAME="kLargestNumber Coverage Results" MODIFIED="1598373336579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
+    <SUITE FILE_PATH="coverage/algorithm$shortestPathToTheDestination.coverage" NAME="shortestPathToTheDestination Coverage Results" MODIFIED="1601389774571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$queenAttack.coverage" NAME="queenAttack Coverage Results" MODIFIED="1597947363429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$decodeWay.coverage" NAME="decodeWay Coverage Results" MODIFIED="1597961066203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
     <SUITE FILE_PATH="coverage/algorithm$merging.coverage" NAME="merging Coverage Results" MODIFIED="1598282851733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$factorization.coverage" NAME="factorization Coverage Results" MODIFIED="1597884852086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
-    <SUITE FILE_PATH="coverage/algorithm$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1597897897354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS" />
     <SUITE FILE_PATH="coverage/algorithm$bouncingDiagonals.coverage" NAME="bouncingDiagonals Coverage Results" MODIFIED="1598061544235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$thekthSubarray.coverage" NAME="thekthSubarray Coverage Results" MODIFIED="1596861805464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1606581710933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS" />
     <SUITE FILE_PATH="coverage/algorithm$wordBreak.coverage" NAME="wordBreak Coverage Results" MODIFIED="1597881453896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
-    <SUITE FILE_PATH="coverage/algorithm$KClosestElement.coverage" NAME="KClosestElement Coverage Results" MODIFIED="1598585941460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move back to back" />
+    <SUITE FILE_PATH="coverage/algorithm$KClosestElement.coverage" NAME="KClosestElement Coverage Results" MODIFIED="1598803126652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move back to back" />
     <SUITE FILE_PATH="coverage/algorithm$penBox.coverage" NAME="penBox Coverage Results" MODIFIED="1595910134452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$inputAndOutput.coverage" NAME="inputAndOutput Coverage Results" MODIFIED="1597941629538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/algorithm$partitionLabels.coverage" NAME="partitionLabels Coverage Results" MODIFIED="1596743123750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
-    <SUITE FILE_PATH="coverage/algorithm$longestConseutiveSubstring.coverage" NAME="longestConseutiveSubstring Coverage Results" MODIFIED="1597793684468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
-    <SUITE FILE_PATH="coverage/algorithm$bigIslands.coverage" NAME="bigIslands Coverage Results" MODIFIED="1597862908243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
-    <SUITE FILE_PATH="coverage/algorithm$angryBossNormal.coverage" NAME="angryBossNormal Coverage Results" MODIFIED="1596562396661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
-    <SUITE FILE_PATH="coverage/algorithm$1.coverage" NAME="1 Coverage Results" MODIFIED="1598194163721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$Construction_Management.coverage" NAME="Construction Management Coverage Results" MODIFIED="1608526524909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$permutation_and_combination.coverage" NAME="permutation and combination Coverage Results" MODIFIED="1603218280991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$bigIslands.coverage" NAME="bigIslands Coverage Results" MODIFIED="1601307841483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$distinctProductAfterRemoving.coverage" NAME="distinctProductAfterRemoving Coverage Results" MODIFIED="1601316449058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$itemsPage.coverage" NAME="itemsPage Coverage Results" MODIFIED="1601352449254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$MatrixSearch.coverage" NAME="MatrixSearch Coverage Results" MODIFIED="1601420406011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
     <SUITE FILE_PATH="coverage/algorithm$moveElementToEnd.coverage" NAME="moveElementToEnd Coverage Results" MODIFIED="1595344285453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$modeAverage.coverage" NAME="modeAverage Coverage Results" MODIFIED="1597978293504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$longestTreePath.coverage" NAME="longestTreePath Coverage Results" MODIFIED="1598486801406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
+    <SUITE FILE_PATH="coverage/algorithm$Efficient_Shipping.coverage" NAME="Efficient Shipping Coverage Results" MODIFIED="1608532432600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$removeDuplicats.coverage" NAME="removeDuplicats Coverage Results" MODIFIED="1603210251610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1595338446514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$zombieInMatrix.coverage" NAME="zombieInMatrix Coverage Results" MODIFIED="1596929209567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$decodeString.coverage" NAME="decodeString Coverage Results" MODIFIED="1597964856672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$findClosestSumTarget.coverage" NAME="findClosestSumTarget Coverage Results" MODIFIED="1603250489976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$createTree.coverage" NAME="createTree Coverage Results" MODIFIED="1597500311341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$subtreeOfAnotherTree.coverage" NAME="subtreeOfAnotherTree Coverage Results" MODIFIED="1601356674948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$diskSpaceAnalysis.coverage" NAME="diskSpaceAnalysis Coverage Results" MODIFIED="1601436110985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
     <SUITE FILE_PATH="coverage/algorithm$subarraySize3TwoSame.coverage" NAME="subarraySize3TwoSame Coverage Results" MODIFIED="1598235590870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$concatenateSwaps.coverage" NAME="concatenateSwaps Coverage Results" MODIFIED="1598244064481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$rotateMatrix.coverage" NAME="rotateMatrix Coverage Results" MODIFIED="1597948543663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$zigzag.coverage" NAME="zigzag Coverage Results" MODIFIED="1598285172794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$LargestRange.coverage" NAME="LargestRange Coverage Results" MODIFIED="1595363152359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$pythagoreantriplets.coverage" NAME="pythagoreantriplets Coverage Results" MODIFIED="1598221561699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$threeNumberSum.coverage" NAME="threeNumberSum Coverage Results" MODIFIED="1595703030040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/algorithm$constructorName.coverage" NAME="constructorName Coverage Results" MODIFIED="1598222402953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$productOfArrayExceptSelf.coverage" NAME="productOfArrayExceptSelf Coverage Results" MODIFIED="1596207131768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$countClusters.coverage" NAME="countClusters Coverage Results" MODIFIED="1601310576062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$outputBinaryTreePaths.coverage" NAME="outputBinaryTreePaths Coverage Results" MODIFIED="1598904703236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backtracking" />
+    <SUITE FILE_PATH="coverage/algorithm$practice.coverage" NAME="practice Coverage Results" MODIFIED="1603247089311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$houserobber.coverage" NAME="houserobber Coverage Results" MODIFIED="1603055827988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1595547258091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$sum3.coverage" NAME="sum3 Coverage Results" MODIFIED="1598626083526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum" />
+    <SUITE FILE_PATH="coverage/algorithm$criticalRouters.coverage" NAME="criticalRouters Coverage Results" MODIFIED="1601421026876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
     <SUITE FILE_PATH="coverage/algorithm$Heaters.coverage" NAME="Heaters Coverage Results" MODIFIED="1596578401790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$minimumStep.coverage" NAME="minimumStep Coverage Results" MODIFIED="1596056572729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$flattenBinaryTreeToLinkedList.coverage" NAME="flattenBinaryTreeToLinkedList Coverage Results" MODIFIED="1597603204929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
+    <SUITE FILE_PATH="coverage/algorithm$totalTeam.coverage" NAME="totalTeam Coverage Results" MODIFIED="1601352163813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$flattenBinaryTreeToLinkedList.coverage" NAME="flattenBinaryTreeToLinkedList Coverage Results" MODIFIED="1599055094082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
     <SUITE FILE_PATH="coverage/algorithm$maxConnectedArea.coverage" NAME="maxConnectedArea Coverage Results" MODIFIED="1597437957524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
-    <SUITE FILE_PATH="coverage/algorithm$subarraySumEqualsK2.coverage" NAME="subarraySumEqualsK2 Coverage Results" MODIFIED="1596223494169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$baseballscore.coverage" NAME="baseballscore Coverage Results" MODIFIED="1601428965755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$mergeTwoPackages.coverage" NAME="mergeTwoPackages Coverage Results" MODIFIED="1607233802783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/November" />
     <SUITE FILE_PATH="coverage/algorithm$angryBoss.coverage" NAME="angryBoss Coverage Results" MODIFIED="1596560226685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
     <SUITE FILE_PATH="coverage/algorithm$modernLudo.coverage" NAME="modernLudo Coverage Results" MODIFIED="1597539624348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
-    <SUITE FILE_PATH="coverage/algorithm$countBit.coverage" NAME="countBit Coverage Results" MODIFIED="1597977059600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$pickApple.coverage" NAME="pickApple Coverage Results" MODIFIED="1596855498673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
-    <SUITE FILE_PATH="coverage/algorithm$levenshteinDistance.coverage" NAME="levenshteinDistance Coverage Results" MODIFIED="1596053546090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$AnagramGroup.coverage" NAME="AnagramGroup Coverage Results" MODIFIED="1603197259144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$permutation2.coverage" NAME="permutation2 Coverage Results" MODIFIED="1606581721496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS" />
     <SUITE FILE_PATH="coverage/algorithm$longestContiguousSubarray.coverage" NAME="longestContiguousSubarray Coverage Results" MODIFIED="1597805393106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$WBChessboard.coverage" NAME="WBChessboard Coverage Results" MODIFIED="1597946668772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
     <SUITE FILE_PATH="coverage/algorithm$newTextEditor.coverage" NAME="newTextEditor Coverage Results" MODIFIED="1598244753205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$meetingRoom2.coverage" NAME="meetingRoom2 Coverage Results" MODIFIED="1596316011730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$branchSums.coverage" NAME="branchSums Coverage Results" MODIFIED="1595599192491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
     <SUITE FILE_PATH="coverage/algorithm$sparseMatrixMultiplication.coverage" NAME="sparseMatrixMultiplication Coverage Results" MODIFIED="1596152062776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$maxIncreaseKeepingSkyline.coverage" NAME="maxIncreaseKeepingSkyline Coverage Results" MODIFIED="1596251206108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$coolFeature.coverage" NAME="coolFeature Coverage Results" MODIFIED="1598244177502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$Word_Compression.coverage" NAME="Word Compression Coverage Results" MODIFIED="1608528036733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$primeNumber.coverage" NAME="primeNumber Coverage Results" MODIFIED="1601415801298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$inorder_BST.coverage" NAME="inorder BST Coverage Results" MODIFIED="1602976843824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$knight2.coverage" NAME="knight2 Coverage Results" MODIFIED="1602792143823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$findClosestValueinBST.coverage" NAME="findClosestValueinBST Coverage Results" MODIFIED="1595435101674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$diameterOfBinaryTree.coverage" NAME="diameterOfBinaryTree Coverage Results" MODIFIED="1597554294980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
-    <SUITE FILE_PATH="coverage/algorithm$quickSort.coverage" NAME="quickSort Coverage Results" MODIFIED="1598198909877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
-    <SUITE FILE_PATH="coverage/algorithm$orderCheck.coverage" NAME="orderCheck Coverage Results" MODIFIED="1595599129145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
-    <SUITE FILE_PATH="coverage/algorithm$courseSchedule.coverage" NAME="courseSchedule Coverage Results" MODIFIED="1597893485981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$maximumDifference.coverage" NAME="maximumDifference Coverage Results" MODIFIED="1597966758823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
-    <SUITE FILE_PATH="coverage/algorithm$trangleCount.coverage" NAME="trangleCount Coverage Results" MODIFIED="1598309287794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum" />
-    <SUITE FILE_PATH="coverage/algorithm$removeOneDigit.coverage" NAME="removeOneDigit Coverage Results" MODIFIED="1598221607096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$waterArea.coverage" NAME="waterArea Coverage Results" MODIFIED="1596037256747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$productOfArrayExceptSelfOptimization.coverage" NAME="productOfArrayExceptSelfOptimization Coverage Results" MODIFIED="1596208254494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$longestConsecutiveSubstring.coverage" NAME="longestConsecutiveSubstring Coverage Results" MODIFIED="1602996080706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$validPalindrome.coverage" NAME="validPalindrome Coverage Results" MODIFIED="1598025996077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face" />
-    <SUITE FILE_PATH="coverage/algorithm$validPalindrome2.coverage" NAME="validPalindrome2 Coverage Results" MODIFIED="1598027437931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face" />
-    <SUITE FILE_PATH="coverage/algorithm$knight.coverage" NAME="knight Coverage Results" MODIFIED="1597554025069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$matrixRotation.coverage" NAME="matrixRotation Coverage Results" MODIFIED="1598278441960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$knightShortestPath3.coverage" NAME="knightShortestPath3 Coverage Results" MODIFIED="1603245626130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$movingDiagonals.coverage" NAME="movingDiagonals Coverage Results" MODIFIED="1597863171628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1598056141204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
-    <SUITE FILE_PATH="coverage/algorithm$postOffice1.coverage" NAME="postOffice1 Coverage Results" MODIFIED="1596921765521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
-    <SUITE FILE_PATH="coverage/algorithm$reachingPoints.coverage" NAME="reachingPoints Coverage Results" MODIFIED="1596056659720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1600187401144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
+    <SUITE FILE_PATH="coverage/algorithm$TSP.coverage" NAME="TSP Coverage Results" MODIFIED="1599780466516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS" />
     <SUITE FILE_PATH="coverage/algorithm$longestPalindromeSubstring.coverage" NAME="longestPalindromeSubstring Coverage Results" MODIFIED="1596661875318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/algorithm$findWords.coverage" NAME="findWords Coverage Results" MODIFIED="1596300134195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$matrixFastPower.coverage" NAME="matrixFastPower Coverage Results" MODIFIED="1595909988664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$combination2.coverage" NAME="combination2 Coverage Results" MODIFIED="1597934073748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
-    <SUITE FILE_PATH="coverage/algorithm$quikSelect.coverage" NAME="quikSelect Coverage Results" MODIFIED="1598373322940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
-    <SUITE FILE_PATH="coverage/algorithm$substringWithAtLeastKDistinctCharacters.coverage" NAME="substringWithAtLeastKDistinctCharacters Coverage Results" MODIFIED="1596577731034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$quikSelect.coverage" NAME="quikSelect Coverage Results" MODIFIED="1600191223375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
     <SUITE FILE_PATH="coverage/algorithm$twoNumberSum.coverage" NAME="twoNumberSum Coverage Results" MODIFIED="1598021850853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
-    <SUITE FILE_PATH="coverage/algorithm$lastAppear.coverage" NAME="lastAppear Coverage Results" MODIFIED="1598384496304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二分法" />
+    <SUITE FILE_PATH="coverage/algorithm$segments.coverage" NAME="segments Coverage Results" MODIFIED="1600812984086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Twilio" />
     <SUITE FILE_PATH="coverage/algorithm$copyBooks.coverage" NAME="copyBooks Coverage Results" MODIFIED="1595712949837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$numberOfIsland2.coverage" NAME="numberOfIsland2 Coverage Results" MODIFIED="1597011769111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$accountNumberValidation.coverage" NAME="accountNumberValidation Coverage Results" MODIFIED="1599356164623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/akuna" />
+    <SUITE FILE_PATH="coverage/algorithm$numberOfIsland2.coverage" NAME="numberOfIsland2 Coverage Results" MODIFIED="1602803440784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$howMany024.coverage" NAME="howMany024 Coverage Results" MODIFIED="1597857805956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$sameBSTs.coverage" NAME="sameBSTs Coverage Results" MODIFIED="1595601954369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
-    <SUITE FILE_PATH="coverage/algorithm$LRU.coverage" NAME="LRU Coverage Results" MODIFIED="1596436914902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$numberOfIslands__1_.coverage" NAME="numberOfIslands (1) Coverage Results" MODIFIED="1596316400013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
-    <SUITE FILE_PATH="coverage/algorithm$minRewards.coverage" NAME="minRewards Coverage Results" MODIFIED="1595363230310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$subarraySumEqualsK2Optimization.coverage" NAME="subarraySumEqualsK2Optimization Coverage Results" MODIFIED="1596224870507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$Alian_Dictionary.coverage" NAME="Alian Dictionary Coverage Results" MODIFIED="1602895039051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$numberOfIslands__1_.coverage" NAME="numberOfIslands (1) Coverage Results" MODIFIED="1599590846096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$findPrime.coverage" NAME="findPrime Coverage Results" MODIFIED="1597980433215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
     <SUITE FILE_PATH="coverage/algorithm$maxSubsetSumNoAdjacent.coverage" NAME="maxSubsetSumNoAdjacent Coverage Results" MODIFIED="1595719327088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/algorithm$postOfficeway2.coverage" NAME="postOfficeway2 Coverage Results" MODIFIED="1596928397377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
     <SUITE FILE_PATH="coverage/algorithm$binaryPatternMatching.coverage" NAME="binaryPatternMatching Coverage Results" MODIFIED="1598244071995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
-    <SUITE FILE_PATH="coverage/algorithm$generateParentheses.coverage" NAME="generateParentheses Coverage Results" MODIFIED="1597878431977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
+    <SUITE FILE_PATH="coverage/algorithm$spiralMatrix.coverage" NAME="spiralMatrix Coverage Results" MODIFIED="1601424156807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$findRelatedProducta.coverage" NAME="findRelatedProducta Coverage Results" MODIFIED="1601436418926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
     <SUITE FILE_PATH="coverage/algorithm$digitAnagrams.coverage" NAME="digitAnagrams Coverage Results" MODIFIED="1598225260041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$SubtreewithMaximumAverage.coverage" NAME="SubtreewithMaximumAverage Coverage Results" MODIFIED="1601355128411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$Prison_Break.coverage" NAME="Prison Break Coverage Results" MODIFIED="1608531248058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$LetterCombinationsOfPhoneNumber.coverage" NAME="LetterCombinationsOfPhoneNumber Coverage Results" MODIFIED="1598904641171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backtracking" />
+    <SUITE FILE_PATH="coverage/algorithm$brokenKeyboard.coverage" NAME="brokenKeyboard Coverage Results" MODIFIED="1598239449358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$longestPeak.coverage" NAME="longestPeak Coverage Results" MODIFIED="1595599220212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$vanityNumberSearch.coverage" NAME="vanityNumberSearch Coverage Results" MODIFIED="1600787787640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Twilio" />
+    <SUITE FILE_PATH="coverage/algorithm$ValidateIPAddress.coverage" NAME="ValidateIPAddress Coverage Results" MODIFIED="1597942917738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$decodeways.coverage" NAME="decodeways Coverage Results" MODIFIED="1604422854748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$findMinimumInRotatedSortedTree.coverage" NAME="findMinimumInRotatedSortedTree Coverage Results" MODIFIED="1595705940911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$fourNumberSum.coverage" NAME="fourNumberSum Coverage Results" MODIFIED="1595359026403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$combination1.coverage" NAME="combination1 Coverage Results" MODIFIED="1606583506525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
+    <SUITE FILE_PATH="coverage/algorithm$minRewards__1_.coverage" NAME="minRewards (1) Coverage Results" MODIFIED="1595469920966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$chocolateJar.coverage" NAME="chocolateJar Coverage Results" MODIFIED="1597978112842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$zigzagTraverse.coverage" NAME="zigzagTraverse Coverage Results" MODIFIED="1595481559896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$LRUmiss.coverage" NAME="LRUmiss Coverage Results" MODIFIED="1601417159659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$unhappyPalindrom.coverage" NAME="unhappyPalindrom Coverage Results" MODIFIED="1601307004567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$kLargestNumber.coverage" NAME="kLargestNumber Coverage Results" MODIFIED="1602771450488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
+    <SUITE FILE_PATH="coverage/algorithm$decodeWay.coverage" NAME="decodeWay Coverage Results" MODIFIED="1597961066203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$validBrackets.coverage" NAME="validBrackets Coverage Results" MODIFIED="1603052065681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$thekthSubarray.coverage" NAME="thekthSubarray Coverage Results" MODIFIED="1596861805464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$inputAndOutput.coverage" NAME="inputAndOutput Coverage Results" MODIFIED="1597941629538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$twoSumNumber.coverage" NAME="twoSumNumber Coverage Results" MODIFIED="1595532151072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$partitionLabels.coverage" NAME="partitionLabels Coverage Results" MODIFIED="1596743123750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$longestConseutiveSubstring.coverage" NAME="longestConseutiveSubstring Coverage Results" MODIFIED="1597793684468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/algorithm$HashFunction.coverage" NAME="HashFunction Coverage Results" MODIFIED="1599780484449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMapHashSet" />
+    <SUITE FILE_PATH="coverage/algorithm$k_Top_Number.coverage" NAME="k Top Number Coverage Results" MODIFIED="1602791304526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$angryBossNormal.coverage" NAME="angryBossNormal Coverage Results" MODIFIED="1596562396661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$closeTargetTwoSum.coverage" NAME="closeTargetTwoSum Coverage Results" MODIFIED="1603198906597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$Binary_Tree_Serialization.coverage" NAME="Binary Tree Serialization Coverage Results" MODIFIED="1607407972732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$1.coverage" NAME="1 Coverage Results" MODIFIED="1598194163721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$twosum.coverage" NAME="twosum Coverage Results" MODIFIED="1603250494514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$JobSchedule.coverage" NAME="JobSchedule Coverage Results" MODIFIED="1603041643982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$modeAverage.coverage" NAME="modeAverage Coverage Results" MODIFIED="1597978293504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$longestTreePath.coverage" NAME="longestTreePath Coverage Results" MODIFIED="1598486801406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
+    <SUITE FILE_PATH="coverage/algorithm$zombieInMatrix.coverage" NAME="zombieInMatrix Coverage Results" MODIFIED="1596929209567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$Statistics.coverage" NAME="Statistics Coverage Results" MODIFIED="1599419033180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/akuna" />
+    <SUITE FILE_PATH="coverage/algorithm$meeting_room.coverage" NAME="meeting room Coverage Results" MODIFIED="1602978644882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$numberOfLevelUpPlayer.coverage" NAME="numberOfLevelUpPlayer Coverage Results" MODIFIED="1601351671040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$DesignTwitter.coverage" NAME="DesignTwitter Coverage Results" MODIFIED="1602713794338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon ood" />
+    <SUITE FILE_PATH="coverage/algorithm$rotateMatrix.coverage" NAME="rotateMatrix Coverage Results" MODIFIED="1597948543663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$zigzag.coverage" NAME="zigzag Coverage Results" MODIFIED="1598285172794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$LargestRange.coverage" NAME="LargestRange Coverage Results" MODIFIED="1595363152359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$Most_frequent_word.coverage" NAME="Most frequent word Coverage Results" MODIFIED="1601402863398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$constructorName.coverage" NAME="constructorName Coverage Results" MODIFIED="1598222402953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$productOfArrayExceptSelf.coverage" NAME="productOfArrayExceptSelf Coverage Results" MODIFIED="1596207131768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$longestPath.coverage" NAME="longestPath Coverage Results" MODIFIED="1599370131344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/akuna" />
+    <SUITE FILE_PATH="coverage/algorithm$Two_sum_unique_pairs.coverage" NAME="Two sum-unique pairs Coverage Results" MODIFIED="1601424153279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$PaintCeiling.coverage" NAME="PaintCeiling Coverage Results" MODIFIED="1608531253148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$Squared_Shortest_Distance.coverage" NAME="Squared Shortest Distance Coverage Results" MODIFIED="1601425512630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$sum3.coverage" NAME="sum3 Coverage Results" MODIFIED="1603252015362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$ShortestPath_with_fixed_start_and_end.coverage" NAME="ShortestPath with fixed start and end Coverage Results" MODIFIED="1602803208771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$favoriteGenres.coverage" NAME="favoriteGenres Coverage Results" MODIFIED="1601423628525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$subarraySumEqualsK2.coverage" NAME="subarraySumEqualsK2 Coverage Results" MODIFIED="1596223494169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$productProfit.coverage" NAME="productProfit Coverage Results" MODIFIED="1601002348968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$countBit.coverage" NAME="countBit Coverage Results" MODIFIED="1597977059600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cisco" />
+    <SUITE FILE_PATH="coverage/algorithm$subset.coverage" NAME="subset Coverage Results" MODIFIED="1599682096513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$characterOrder.coverage" NAME="characterOrder Coverage Results" MODIFIED="1601684678989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$productSuggestions.coverage" NAME="productSuggestions Coverage Results" MODIFIED="1601360417286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$pickApple.coverage" NAME="pickApple Coverage Results" MODIFIED="1596855498673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$levenshteinDistance.coverage" NAME="levenshteinDistance Coverage Results" MODIFIED="1596053546090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$debt.coverage" NAME="debt Coverage Results" MODIFIED="1601436422763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$wordLadder.coverage" NAME="wordLadder Coverage Results" MODIFIED="1603251745837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$branchSums.coverage" NAME="branchSums Coverage Results" MODIFIED="1595599192491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />
+    <SUITE FILE_PATH="coverage/algorithm$maxIncreaseKeepingSkyline.coverage" NAME="maxIncreaseKeepingSkyline Coverage Results" MODIFIED="1596251206108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$coolFeature.coverage" NAME="coolFeature Coverage Results" MODIFIED="1598244177502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$Longest_Palindromic_Substring.coverage" NAME="Longest Palindromic Substring Coverage Results" MODIFIED="1603250700457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$diameterOfBinaryTree.coverage" NAME="diameterOfBinaryTree Coverage Results" MODIFIED="1597554294980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Tree" />
+    <SUITE FILE_PATH="coverage/algorithm$quickSort.coverage" NAME="quickSort Coverage Results" MODIFIED="1608509912471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
+    <SUITE FILE_PATH="coverage/algorithm$orderCheck.coverage" NAME="orderCheck Coverage Results" MODIFIED="1595599129145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Goldman OA" />
+    <SUITE FILE_PATH="coverage/algorithm$courseSchedule.coverage" NAME="courseSchedule Coverage Results" MODIFIED="1597893485981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$trangleCount.coverage" NAME="trangleCount Coverage Results" MODIFIED="1598309287794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/TwoSum" />
+    <SUITE FILE_PATH="coverage/algorithm$decode.coverage" NAME="decode Coverage Results" MODIFIED="1607550083806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$removeOneDigit.coverage" NAME="removeOneDigit Coverage Results" MODIFIED="1598221607096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$competitive_gaming.coverage" NAME="competitive gaming Coverage Results" MODIFIED="1608532277328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$optimalUtilization.coverage" NAME="optimalUtilization Coverage Results" MODIFIED="1598908138648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$waterArea.coverage" NAME="waterArea Coverage Results" MODIFIED="1603043240660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$productOfArrayExceptSelfOptimization.coverage" NAME="productOfArrayExceptSelfOptimization Coverage Results" MODIFIED="1596208254494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$MaximumUnits.coverage" NAME="MaximumUnits Coverage Results" MODIFIED="1601351182862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$pilesBox.coverage" NAME="pilesBox Coverage Results" MODIFIED="1608557232918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roblox" />
+    <SUITE FILE_PATH="coverage/algorithm$validPalindrome2.coverage" NAME="validPalindrome2 Coverage Results" MODIFIED="1598027437931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face" />
+    <SUITE FILE_PATH="coverage/algorithm$knight.coverage" NAME="knight Coverage Results" MODIFIED="1597554025069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$postOffice1.coverage" NAME="postOffice1 Coverage Results" MODIFIED="1596921765521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$reachingPoints.coverage" NAME="reachingPoints Coverage Results" MODIFIED="1596056659720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$MinimumDifficultyofaJobSchedule.coverage" NAME="MinimumDifficultyofaJobSchedule Coverage Results" MODIFIED="1601393817668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon OA2" />
+    <SUITE FILE_PATH="coverage/algorithm$matrixFastPower.coverage" NAME="matrixFastPower Coverage Results" MODIFIED="1595909988664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$windowMinimums.coverage" NAME="windowMinimums Coverage Results" MODIFIED="1600993851928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon" />
+    <SUITE FILE_PATH="coverage/algorithm$combination2.coverage" NAME="combination2 Coverage Results" MODIFIED="1602820526652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
+    <SUITE FILE_PATH="coverage/algorithm$WordBreak.coverage" NAME="WordBreak Coverage Results" MODIFIED="1603294841998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
+    <SUITE FILE_PATH="coverage/algorithm$travelDistance.coverage" NAME="travelDistance Coverage Results" MODIFIED="1599352114215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/akuna" />
+    <SUITE FILE_PATH="coverage/algorithm$substringWithAtLeastKDistinctCharacters.coverage" NAME="substringWithAtLeastKDistinctCharacters Coverage Results" MODIFIED="1596577731034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer" />
+    <SUITE FILE_PATH="coverage/algorithm$lastAppear.coverage" NAME="lastAppear Coverage Results" MODIFIED="1598384496304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二分法" />
+    <SUITE FILE_PATH="coverage/algorithm$binaryTreeLevelOrder.coverage" NAME="binaryTreeLevelOrder Coverage Results" MODIFIED="1599613700811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/BFS" />
+    <SUITE FILE_PATH="coverage/algorithm$LRU.coverage" NAME="LRU Coverage Results" MODIFIED="1596436914902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$minRewards.coverage" NAME="minRewards Coverage Results" MODIFIED="1595363230310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$subarraySumEqualsK2Optimization.coverage" NAME="subarraySumEqualsK2Optimization Coverage Results" MODIFIED="1596224870507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang" />
+    <SUITE FILE_PATH="coverage/algorithm$generateParentheses.coverage" NAME="generateParentheses Coverage Results" MODIFIED="1598850570319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/DFS/DFSNOTREE" />
+    <SUITE FILE_PATH="coverage/algorithm$hashCount.coverage" NAME="hashCount Coverage Results" MODIFIED="1603072788907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$monotonicArray.coverage" NAME="monotonicArray Coverage Results" MODIFIED="1595349715304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$rectangleBoxes.coverage" NAME="rectangleBoxes Coverage Results" MODIFIED="1598221179789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
     <SUITE FILE_PATH="coverage/algorithm$longestStringWithoutDuplicates.coverage" NAME="longestStringWithoutDuplicates Coverage Results" MODIFIED="1596662342137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/algorithm$inputSum.coverage" NAME="inputSum Coverage Results" MODIFIED="1597867552112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robinhood" />
+    <SUITE FILE_PATH="coverage/algorithm$count0.coverage" NAME="count0 Coverage Results" MODIFIED="1603220026850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon Second" />
     <SUITE FILE_PATH="coverage/algorithm$sortColor.coverage" NAME="sortColor Coverage Results" MODIFIED="1598372274184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
     <SUITE FILE_PATH="coverage/algorithm$selectMedian.coverage" NAME="selectMedian Coverage Results" MODIFIED="1598312720875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiuzhang/Two pointer/Two pointer move face to face/Partition" />
     <SUITE FILE_PATH="coverage/algorithm$maxPathSumInBinaryTree.coverage" NAME="maxPathSumInBinaryTree Coverage Results" MODIFIED="1595717773561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Binary Search Trees" />

@@ -22,8 +22,17 @@ def insert(tree, value):
                 currentNode = currentNode.left
         else:
             return tree
+
+
+
 root = BST(10)
 insert(root,5)
 insert(root,15)
+insert(root,7)
 
 
+#  10
+# /  \
+# 5  15
+#  \
+#  7

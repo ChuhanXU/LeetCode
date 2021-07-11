@@ -1,0 +1,35 @@
+okay thanks for your explain, I guess I had a general idea about what this problem is doing, can i restate this problem for you to make sure I understand
+all requirements correctly, if you have some problems or any other advice, please interrupt me directly and tell me.
+
+1.input: size of matrix (3,3), the location of locker(1,1)
+2. 0 0 0     2 1 2
+   0 l 0  => 1 0 1
+   0 0 0     2 1 2
+3. what if the locker is not in this matrix return[];what if matrix is None?
+
+step
+1.go through every element in the matrix to call bfs to calculate the shortest path
+2.bfs(x,y,destination)
+3.queue[(0,0)]
+4.popleft (0,0) check the adjacent node and put them into queue
+5.go through all element in queue to check if it is destination yes-return steps no-put the adjacent node into queue
+6.we need a valid function to check if node is out of matrix
+7.visited set()
+
+test:
+visited[(0,0),(0,1),(1,0)]
+queue[(0,0)] go up:out go right:(0,1),go down(1,0) go left nothing
+step =1
+queue.append((0,1)) visited.append((0,1))
+queue.append((1,0)) visited.append((1,0))
+step=2
+for (0,1) as mentioned before we can get (0,2) and (1,1)
+queue.append((0,2)) visited.append((0,2))
+queue.append((1,1)) visited.append((1,1))
+for (1,0) we can get (0,0),(1,1),(2,0)but first are in visited so only (2,0)
+queue.append((2,0)) visited.append((2,0))
+queue[(0,2),(1,1),(2,0)]
+for ()
+
+n squared
+

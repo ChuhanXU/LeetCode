@@ -18,17 +18,19 @@ def helper(nums,start,end):
     left,right = start,end
     # 这应该是一个随机数,最好能保证将数组均分
     # get value not index
+# 很重要！每一次递归的时候pivot都是要换的，因此不能用len(nums)
     pivot = nums[(start+end)//2]
     # 20-27 partition的用法
     # left <= right 不是 left < right 会出现stack overflow的问题
     # 3 2 1 4 5 left = 3 right = 5 pivot = 1
-    # 加上等号,可以使两个指针错开,不能存在交集
+    # 很重要！加上等号,可以使两个指针错开,不能存在交集
     # 不能是 nums[left] <= pivot ,想象全部都是1 左指针会一直走到最右边,造成分布不均匀
     # 应该停下来进行交换,虽然是无用功,但可以保证两个1 一边一个
     while left<=right and nums[left] < pivot:
         left += 1
     while left <= right and nums[right] > pivot:
         right -= 1
+#很重要！
     if left <= right:
         nums[left],nums[right]=nums[right],nums[left]
         left  += 1
@@ -37,8 +39,11 @@ def helper(nums,start,end):
     helper(nums,start,right)
     helper(nums,left,end)
     return nums
-nums=[3,5,3,1,5,6,0]
+nums=[10,3,1,7,2,5,4]
 print(quickSort(nums))
+
+
+
 
 
 

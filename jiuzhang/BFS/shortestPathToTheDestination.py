@@ -1,3 +1,4 @@
+
 import collections
 class DataType:
     ROAD = 0

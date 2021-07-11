@@ -12,18 +12,19 @@ def numIslands(grid):
 
     islands = 0
     visited = set()
+    queue = collections.deque()
     for i in range(len(grid)):
         for j in range(len(grid[0])):
             if grid[i][j]==1 and (i, j) not in visited:
-                bfs(grid, i, j, visited)
+                bfs(grid, i, j, queue,visited)
                 islands += 1
 
     return islands
 
 
-def bfs(grid, x, y, visited):
+def bfs(grid, x, y,queue, visited):
     # 队列里放的是坐标，但是要以list的形式放进去
-    queue = collections.deque([(x, y)])
+    queue.append((x, y))
     visited.add((x, y))
     while queue:
         x, y = queue.popleft()

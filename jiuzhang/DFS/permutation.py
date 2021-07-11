@@ -1,17 +1,12 @@
+# 保证没有重复，如果要用visited.add的话，不然要用used数组通过位置来区分两个相同的数
 def permute(nums):
-    results = []
-
-    # 如果数组为空直接返回空
-    if nums is None:
-        return []
-
-    # dfs
-    used = [0] * len(nums)
-    dfs(nums, used, [], results)
+    if not nums:
+        return [[]]
+    results=[]
+    dfs(nums, set(), [], results)
     return results
 
-
-def dfs(nums, used, current, results):
+def dfs(nums, visited, current, results):
     # 找到一组排列，已到达边界条件
     if len(nums) == len(current):
         # 因为地址传递，在最终回溯后current为空导致results中均为空列表
@@ -19,17 +14,18 @@ def dfs(nums, used, current, results):
         results.append(current[:])
         return
 
-    for i in range(len(nums)):
-        # i位置这个元素已经被用过
-        if used[i]:
+    for num in nums:
+        if num in visited:
             continue
 
         # 继续递归
-        current.append(nums[i])
-        used[i] = 1
-        dfs(nums, used, current, results)
+        current.append(num)
+        visited.add(num)
+        dfs(nums, visited, current, results)
         # 回溯
-        used[i] = 0
-        current.pop()
+        visited.remove(num)
+        current.remove(num)
 nums = [1,2,3]
 print(permute(nums))
+s="ab"
+print(list(s))

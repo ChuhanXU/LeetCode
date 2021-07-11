@@ -42,21 +42,20 @@ def sum(array,target):
     array=sorted(array)
     result = []
     for i in range(len(array)):
-        if i>0 and array[i-1]==array[i]:
-            continue
+        # if i>0 and array[i-1]==array[i]:
+        #     continue
         helper(array,i+1,len(array)-1,target-array[i],result,target)
     return result
 def helper(array,left,right,a,result,target):
-    last_pair = None
     while left<right:
         if array[left]+array[right]==a:
             if (target-a,array[left],array[right]) not in result:
                 result.append((target-a,array[left],array[right]))
-                left+=1
-                right-=1
+            left+=1
+            right-=1
         elif array[left]+array[right]>a:
             right -= 1
         else:
             left+=1
 nums = [-1,-1,2,0,1,-2,2]
-print(sum(nums,-1))
+print(sum(nums,-2))

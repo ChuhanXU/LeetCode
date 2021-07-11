@@ -37,6 +37,6 @@ def helper(nums,start,end,k):
         return helper(nums,left,end,k-(left-start))
     else:
         return nums[right+1]
-nums = [-1,7,2,5,6]
+nums = [-1,7,2,5,6,7]
 print(selectMedian(nums))
 

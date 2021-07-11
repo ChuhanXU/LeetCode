@@ -1,9 +1,8 @@
 # 求二叉树的直径，一般会用到递归和分治，把大问题化成小问题，分别去看root.right,root.left
 # 求二叉树中的求路径一般有两种情况，不过根结点，max(left chain,right chain)过根结点max(left_path,left_path,left chain + right chain)
 # 在求chain的时候要需要考虑此节点的上一个路径，因为我们需要满足left chain + right chain等于根结点分别到左右节点的那个距离
+# 树的直径是树上的最长路径
 import collections
-
-
 def diameterOfBinaryTree(tree):
     longest,diameter = helper(tree)
     return diameter

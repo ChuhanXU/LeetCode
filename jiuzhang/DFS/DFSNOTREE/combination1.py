@@ -9,20 +9,16 @@ def combination(n,k):
         nums.append(i)
 
     result = []
-    dfs(nums,[],k,result,0)
+    dfs(nums,0,[],result,k)
     return result
 
-def dfs(nums,current,k,result,index):
+def dfs(nums,index,current,result,k):
     if k==0:
         result.append(current[:])
         return
 
     for i in range(index,len(nums)):
         current.append(nums[i])
-
-
-        dfs(nums,current,k-1,result,i+1)
-        # dfs(nums, current, k - 1, result, index + 1)
-
+        dfs(nums,i+1,current,result,k-1)
         current.pop()
-print(combination(3,2))
+print(combination(5,2))

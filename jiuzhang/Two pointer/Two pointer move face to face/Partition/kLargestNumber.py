@@ -32,14 +32,13 @@ class Solution:
                 left += 1
                 right -= 1
 
-        if start + k - 1 <= right:
+        if  k < right:
             return self.quickSort(nums, k, start, right)
-        # 这边n要变化是因为如果确定第n大的数在右边，left前面的数(left-start)个就都不要了
-        if start + k - 1 >= left:
-            return self.quickSort(nums, k - (left - start), left, end)
-        # 这种情况是right 和 left 之间正好隔了一个数
+        if k > left:
+            return self.quickSort(nums, k ,left, end)
+
         else:
-            return nums[right + 1]
+            return nums[k-1]
 nums = [1,5,8,-1]
 soultion = Solution()
-print(soultion.kthLargestElement(1,nums))
+print(soultion.kthLargestElement(2,nums))

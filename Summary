@@ -15,6 +15,7 @@ calculating value: the number of tree path that satisfied requirements
 打劫房屋3 Robber house3 同样需要维护两个变量 打劫此房屋的最大收益和不打劫此房屋的收益
 多叉树的最长路径-dfs解法 需要建图，即使有很多叉，找到两个最长的叉
 多叉树的最长路径-bfs解法
+
 b 操作类：将树转化为其它的样子，对树进行修改
 operating: transfer binary tree to another data structure
 将二叉树转为链表：transfer(flatten) binary tree to linked list

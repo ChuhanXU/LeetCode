@@ -34,4 +34,4 @@ def findIndex(A,target):
         return end
     return len(A)
 A=[1,3,7,8,5]
-print(kClosestNumber(A,4,2))
+print(kClosestNumber(A,4,3))

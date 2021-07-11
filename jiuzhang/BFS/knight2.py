@@ -1,13 +1,9 @@
+# 描述
+# 在一个 n * m 的棋盘中(二维矩阵中 0 表示空 1 表示有障碍物)，骑士的初始位置是 (0, 0) ，他想要达到 (n - 1, m - 1) 这个位置，骑士只能从左边走到右边。找出骑士到目标位置所需要走的最短路径并返回其长度，如果骑士无法达到则返回 -1.
 import collections
 
 directions = [(1, 2), (-1, 2), (2, 1), (-2, 1)]
 
-
-class Solution:
-    """
-    @param grid: a chessboard included 0 and 1
-    @return: the shortest path
-    """
 
 def shortestPath2(grid):
     n=len(grid)
@@ -20,7 +16,7 @@ def shortestPath2(grid):
     queue = collections.deque()
     dist = {}
     queue.append((0, 0))
-    dist[(0, 0)] = 1
+    dist[(0, 0)] = 0
     while queue:
         x, y = queue.popleft()
         for del_x, del_y in directions:
@@ -43,8 +39,12 @@ def is_valid(grid, x, y, dist):
         return False
     return True
 grid = [
-    [0, 1, 0],
-    [0, 0, 1],
-    [0, 0, 0]
+    # [0, 1, 0],
+    # [0, 0, 1],
+    # [0, 0, 0]
+[0,0,0,0],[0,0,0,0],[0,0,0,0]
 ]
 print(shortestPath2(grid))
+1 0 0
+1 1 0
+1 1 0

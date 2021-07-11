@@ -1,0 +1,18 @@
+okay thanks for your explain, I guess i had a general idea about what the problem is doing, can i just restate the requirements about this problem to
+make sure i understand each requirements correctly, and if you have some problems or any other advice for me, please just interrupt me and tell me thank you
+
+1. input: start ="hit"，end = "cog"，dict =["hot","dot","dog","lot","log"]
+output: shortest path 5 "hit"->"hot"->"dot"->"dog"->"cog" return 0 if
+2.start and end may not in the dict
+3.what if the length of start and end is not same?
+4.do we have upper character in this dict?
+5.do we have duplications in the dict?
+6.do you make sure every word in dict has same length?
+
+step
+1.{hit:[hot],hot:[dot,lot],dot:[hot,dog],dog:[dot,log],lot:[hot,dot,log],cog[dog,log]}
+hit:[ait,bit,cit]
+
+
+
+def get next_word(word)
